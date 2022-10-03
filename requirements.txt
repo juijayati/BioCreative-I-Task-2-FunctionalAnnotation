@@ -1,0 +1,7 @@
+ipykernel
+gensim
+nltk
+bioc
+pandas
+matplotlib
+requests

@@ -1,0 +1,1287 @@
+12213836|t|The CeCDC-14 phosphatase is required for cytokinesis in the Caenorhabditis elegans embryo.
+12213836|a|In all eukaryotic organisms, the physical separation of two nascent cells must be coordinated with chromosome segregation and mitotic exit. In Saccharomyces cerevisiae and Schizosaccharomyces pombe this coordination depends on a number of genes that cooperate in intricate regulatory pathways termed mitotic exit network and septum initiation network, respectively. Here we have explored the function of potentially homologous genes in a metazoan organism, Caenorhabditis elegans, using RNA-mediated interference. Of all the genes tested, only depletion of CeCDC-14, the C. elegans homologue of the budding yeast dual-specificity phosphatase Cdc14p (Clp1/Flp1p in fission yeast), caused embryonic lethality. We show that CeCDC-14 is required for cytokinesis but may be dispensable for progression of the early embryonic cell cycles. In response to depletion of CeCDC-14, embryos fail to establish a central spindle, and several proteins normally found at this structure are mislocalized. CeCDC-14 itself localizes to the central spindle in anaphase and to the midbody in telophase. It colocalizes with the mitotic kinesin ZEN-4, and the two proteins depend on each other for correct localization. These findings identify the CDC14 phosphatase as an important regulator of central spindle formation and cytokinesis in a metazoan organism.
+12213836	648	656	CeCDC-14	Gene	173945
+12213836	733	739	Cdc14p	Gene	850585
+12213836	741	745	Clp1	Gene	854424
+12213836	812	820	CeCDC-14	Gene	173945
+12213836	952	960	CeCDC-14	Gene	173945
+12213836	1079	1087	CeCDC-14	Gene	173945
+12213836	1213	1218	ZEN-4	Gene	177374
+12213836	1316	1321	CDC14	Gene	173945
+
+12707312|t|CSC-1: a subunit of the Aurora B kinase complex that binds to the survivin-like protein BIR-1 and the incenp-like protein ICP-1.
+12707312|a|The Aurora B kinase complex is a critical regulator of chromosome segregation and cytokinesis. In Caenorhabditis elegans, AIR-2 (Aurora B) function requires ICP-1 (Incenp) and BIR-1 (Survivin). In various systems, Aurora B binds to orthologues of these proteins. Through genetic analysis, we have identified a new subunit of the Aurora B kinase complex, CSC-1. C. elegans embryos depleted of CSC-1, AIR-2, ICP-1, or BIR-1 have identical phenotypes. CSC-1, BIR-1, and ICP-1 are interdependent for their localization, and all are required for AIR-2 localization. In vitro, CSC-1 binds directly to BIR-1. The CSC-1/BIR-1 complex, but not the individual subunits, associates with ICP-1. CSC-1 associates with ICP-1, BIR-1, and AIR-2 in vivo. ICP-1 dramatically stimulates AIR-2 kinase activity. This activity is not stimulated by CSC-1/BIR-1, suggesting that these two subunits function as targeting subunits for AIR-2 kinase.
+12707312	0	5	CSC-1	Gene	175006
+12707312	88	93	BIR-1	Gene	179597
+12707312	122	127	ICP-1	Gene	171788
+12707312	251	256	AIR-2	Gene	172268
+12707312	286	291	ICP-1	Gene	171788
+12707312	305	310	BIR-1	Gene	179597
+12707312	483	488	CSC-1	Gene	175006
+12707312	521	526	CSC-1	Gene	175006
+12707312	528	533	AIR-2	Gene	172268
+12707312	535	540	ICP-1	Gene	171788
+12707312	545	550	BIR-1	Gene	179597
+12707312	578	583	CSC-1	Gene	175006
+12707312	585	590	BIR-1	Gene	179597
+12707312	596	601	ICP-1	Gene	171788
+12707312	670	675	AIR-2	Gene	172268
+12707312	700	705	CSC-1	Gene	175006
+12707312	724	729	BIR-1	Gene	179597
+12707312	735	740	CSC-1	Gene	175006
+12707312	741	746	BIR-1	Gene	179597
+12707312	805	810	ICP-1	Gene	171788
+12707312	812	817	CSC-1	Gene	175006
+12707312	834	839	ICP-1	Gene	171788
+12707312	841	846	BIR-1	Gene	179597
+12707312	852	857	AIR-2	Gene	172268
+12707312	867	872	ICP-1	Gene	171788
+12707312	897	902	AIR-2	Gene	172268
+12707312	955	960	CSC-1	Gene	175006
+12707312	961	966	BIR-1	Gene	179597
+12707312	1038	1043	AIR-2	Gene	172268
+
+16247027|t|A complex containing the Sm protein CAR-1 and the RNA helicase CGH-1 is required for embryonic cytokinesis in Caenorhabditis elegans.
+16247027|a|Cytokinesis completes cell division and partitions the contents of one cell to the two daughter cells. Here we characterize CAR-1, a predicted RNA binding protein that is implicated in cytokinesis. CAR-1 localizes to germline-specific RNA-containing particles and copurifies with the essential RNA helicase, CGH-1, in an RNA-dependent fashion. The atypical Sm domain of CAR-1, which directly binds RNA, is dispensable for CAR-1 localization, but is critical for its function. Inhibition of CAR-1 by RNA-mediated depletion or mutation results in a specific defect in embryonic cytokinesis. This cytokinesis failure likely results from an anaphase spindle defect in which interzonal microtubule bundles that recruit Aurora B kinase and the kinesin, ZEN-4, fail to form between the separating chromosomes. Depletion of CGH-1 results in sterility, but partially depleted worms produce embryos that exhibit the CAR-1-depletion phenotype. Cumulatively, our results suggest that CAR-1 functions with CGH-1 to regulate a specific set of maternally loaded RNAs that is required for anaphase spindle structure and cytokinesis.
+16247027	36	41	CAR-1	Gene	173158
+16247027	63	68	CGH-1	Gene	176061
+16247027	258	263	CAR-1	Gene	173158
+16247027	332	337	CAR-1	Gene	173158
+16247027	442	447	CGH-1	Gene	176061
+16247027	504	509	CAR-1	Gene	173158
+16247027	556	561	CAR-1	Gene	173158
+16247027	624	629	CAR-1	Gene	173158
+16247027	881	886	ZEN-4	Gene	177374
+16247027	950	955	CGH-1	Gene	176061
+16247027	1040	1045	CAR-1	Gene	173158
+16247027	1106	1111	CAR-1	Gene	173158
+16247027	1127	1132	CGH-1	Gene	176061
+
+16987298|t|The natural compound n-butylidenephthalide derived from Angelica sinensis inhibits malignant brain tumor growth in vitro and in vivo.
+16987298|a|The naturally-occurring compound, n-butylidenephthalide (BP), which is isolated from the chloroform extract of Angelica sinensis (AS-C), has been investigated with respect to the treatment of angina. In this study, we have examined the anti-tumor effects of n-butylidenephthalide on glioblastoma multiforme (GBM) brain tumors both in vitro and in vivo. In vitro, GBM cells were treated with BP, and the effects of proliferation, cell cycle and apoptosis were determined. In vivo, DBTRG-05MG, the human GBM tumor, and RG2, the rat GBM tumor, were injected subcutaneously or intracerebrally with BP. The effects on tumor growth were determined by tumor volumes, magnetic resonance imaging and survival rate. Here, we report on the potency of BP in suppressing growth of malignant brain tumor cells without simultaneous fibroblast cytotocixity. BP up-regulated the expression of Cyclin Kinase Inhibitor (CKI), including p21 and p27, to decrease phosphorylation of Rb proteins, and down-regulated the cell-cycle regulators, resulting in cell arrest at the G(0)/G(1) phase for DBTRG-05MG and RG2 cells, respectively. The apoptosis-associated proteins were dramatically increased and activated by BP in DBTRG-05MG cells and RG2 cells, but RG2 cells did not express p53 protein. In vitro results showed that BP triggered both p53-dependent and independent pathways for apoptosis. In vivo, BP not only suppressed growth of subcutaneous rat and human brain tumors but also, reduced the volume of GBM tumors in situ, significantly prolonging survival rate. These in vitro and in vivo anti-cancer effects indicate that BP could serve as a new anti-brain tumor drug.
+16987298	1010	1033	Cyclin Kinase Inhibitor	Gene	1119
+16987298	1035	1038	CKI	Gene	1119
+
+17662049|t|PECAM-1 engagement counteracts ICAM-1-induced signaling in brain vascular endothelial cells.
+17662049|a|Interactions between leukocytes and vascular endothelial cells are mediated by a complex set of membrane adhesion molecules which transduce bi-directional signals in both cell types. Endothelium of the cerebral blood vessels, which constitute the blood-brain barrier, strictly controls adhesion and trafficking of leukocytes into the brain. Investigating signaling pathways triggered by the engagement of adhesion molecules expressed on brain endothelial cells, we previously documented the role of ICAM-1 in activation of the tyrosine phosphorylation of several actin-binding proteins and subsequent rearrangements of the actin cytoskeleton. In the present study, we show that, whereas PECAM-1 is known to control positively the trans-endothelial migration of leukocytes via homophilic interactions between leukocytes and endothelial cells, PECAM-1 engagement on brain endothelial surface unexpectedly counteracts the ICAM-1-induced tyrosine phosphorylation of cortactin and rearrangements of the actin cytoskeleton. We present evidence that the PECAM-1-associated tyrosine phosphatase SHP-2 is required for ICAM-1 signaling, suggesting that its activity might crucially contribute to the regulation of ICAM-1 signaling by PECAM-1. Our findings reveal a novel activity for PECAM-1 which, by counteracting ICAM-1-induced activation, could directly contribute to limit activation and maintain integrity of brain vascular endothelium.
+17662049	0	7	PECAM-1	Gene	5175
+17662049	31	37	ICAM-1	Gene	3383
+17662049	592	598	ICAM-1	Gene	3383
+17662049	780	787	PECAM-1	Gene	5175
+17662049	935	942	PECAM-1	Gene	5175
+17662049	1012	1018	ICAM-1	Gene	3383
+17662049	1055	1064	cortactin	Gene	2017
+17662049	1140	1147	PECAM-1	Gene	5175
+17662049	1180	1185	SHP-2	Gene	5781
+17662049	1202	1208	ICAM-1	Gene	3383
+17662049	1297	1303	ICAM-1	Gene	3383
+17662049	1317	1324	PECAM-1	Gene	5175
+17662049	1367	1374	PECAM-1	Gene	5175
+17662049	1399	1405	ICAM-1	Gene	3383
+
+17760865|t|Hypothalamic neuronal histamine mediates the thyrotropin-releasing hormone-induced suppression of food intake.
+17760865|a|We examined the involvement of thyrotropin-releasing hormone (TRH) and TRH type 1 and 2 receptors (TRH-R1 and TRH-R2, respectively) in the regulation of hypothalamic neuronal histamine. Infusion of 100 nmol TRH into the rat third cerebroventricle (3vt) significantly decreased food intake (p < 0.05) compared to controls infused with phosphate- buffered saline. This TRH-induced suppression of food intake was attenuated partially in histamine-depleted rats pre-treated with alpha-fluoromethylhistidine (a specific suicide inhibitor of histidine decarboxylase) and in mice with targeted disruption of histamine H1 receptors. Infusion of TRH into the 3vt increased histamine turnover as assessed by pargyline-induced accumulation of tele-methylhistamine (t-MH, a major metabolite of neuronal histamine in the brain) in the tuberomammillary nucleus (TMN), the paraventricular nucleus, and the ventromedial hypothalamic nucleus in rats. In addition, TRH-induced decrease of food intake and increase of histamine turnover were in a dose-dependent manner. Microinfusion of TRH into the TMN increased t-MH content, histidine decarboxylase (HDC) activity and expression of HDC mRNA in the TMN. Immunohistochemical analysis revealed that TRH-R2, but not TRH-R1, was expressed within the cell bodies of histaminergic neurons in the TMN of rats. These results indicate that hypothalamic neuronal histamine mediates the TRH-induced suppression of feeding behavior.
+17760865	45	74	thyrotropin-releasing hormone	Gene	25569
+17760865	142	171	thyrotropin-releasing hormone	Gene	25569
+17760865	173	176	TRH	Gene	25569
+17760865	221	227	TRH-R2	Gene	252859
+17760865	318	321	TRH	Gene	25569
+17760865	478	481	TRH	Gene	25569
+17760865	647	670	histidine decarboxylase	Gene	24443
+17760865	748	751	TRH	Gene	25569
+17760865	1058	1061	TRH	Gene	25569
+17760865	1179	1182	TRH	Gene	25569
+17760865	1220	1243	histidine decarboxylase	Gene	24443
+17760865	1245	1248	HDC	Gene	24443
+17760865	1277	1280	HDC	Gene	24443
+17760865	1341	1347	TRH-R2	Gene	252859
+17760865	1520	1523	TRH	Gene	25569
+
+17908240|t|The regulation of M1 muscarinic acetylcholine receptor desensitization by synaptic activity in cultured hippocampal neurons.
+17908240|a|To better understand metabotropic/ionotropic integration in neurons we have examined the regulation of M1 muscarinic acetylcholine (mACh) receptor signalling in mature (> 14 days in vitro), synaptically-active hippocampal neurons in culture. Using a protocol where neurons are exposed to an EC(50) concentration of the muscarinic agonist methacholine (MCh) prior to (R1), and following (R2) a desensitizing pulse of a high concentration of this agonist, we have found that the reduction in M(1) mACh receptor responsiveness is decreased in quiescent (+tetrodotoxin) neurons and increased when synaptic activity is enhanced by blocking GABA(A) receptors with picrotoxin. The picrotoxin-mediated effect on M1 mACh receptor responsiveness was completely prevented by alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor blockade. Inhibition of endogenous G protein-coupled receptor kinase 2 by transfection with the non-G(q/11)alpha-binding, catalytically-inactive (D110A,K220R)G protein-coupled receptor kinase 2 mutant, decreased the extent of M1 mACh receptor desensitization under all conditions. Pharmacological inhibition of protein kinase C (PKC) activity, or chronic phorbol ester-induced PKC down-regulation had no effect on agonist-mediated receptor desensitization in quiescent or spontaneously synaptically active neurons, but significantly decreased the extent of receptor desensitization in picrotoxin-treated neurons. MCh stimulated the translocation of diacylglycerol- sensitive eGFP-PKCepsilon, but not Ca2+/diacylglycerol-sensitive eGFP-PKCbetaII in both the absence, and presence of tetrodotoxin. Under these conditions, MCh-stimulated eGFP-myristoylated, alanine-rich C kinase substrate translocation was dependent on PKC activity, but not Ca2+/calmodulin. In contrast, picrotoxin-driven translocation of myristoylated, alanine-rich C kinase substrate was accompanied by translocation of PKCbetaII, but not PKCepsilon, and was dependent on PKC and Ca2+/calmodulin. Taken together these data suggest that the level of synaptic activity may determine the different kinases recruited to regulate M1 mACh receptor desensitization in neurons.
+17908240	1284	1287	PKC	Gene	5581
+17908240	1332	1335	PKC	Gene	5581
+17908240	1873	1876	PKC	Gene	5581
+17908240	2062	2072	PKCepsilon	Gene	5581
+17908240	2095	2098	PKC	Gene	5581
+
+18251717|t|Energization-dependent endogenous activation of proton conductance in skeletal muscle mitochondria.
+18251717|a|Leak of protons into the mitochondrial matrix during substrate oxidation partially uncouples electron transport from phosphorylation of ADP, but the functions and source of basal and inducible proton leak in vivo remain controversial. In the present study we describe an endogenous activation of proton conductance in mitochondria isolated from rat and mouse skeletal muscle following addition of respiratory substrate. This endogenous activation increased with time, required a high membrane potential and was diminished by high concentrations of serum albumin. Inhibition of this endogenous activation by GDP [classically considered specific for UCPs (uncoupling proteins)], carboxyatractylate and bongkrekate (considered specific for the adenine nucleotide translocase) was examined in skeletal muscle mitochondria from wild-type and Ucp3-knockout mice. Proton conductance through endogenously activated UCP3 was calculated as the difference in leak between mitochondria from wild-type and Ucp3-knockout mice, and was found to be inhibited by carboxyatractylate and bongkrekate, but not GDP. Proton conductance in mitochondria from Ucp3-knockout mice was strongly inhibited by carboxyatractylate, bongkrekate and partially by GDP. We conclude the following: (i) at high protonmotive force, an endogenously generated activator stimulates proton conductance catalysed partly by UCP3 and partly by the adenine nucleotide translocase; (ii) GDP is not a specific inhibitor of UCP3, but also inhibits proton translocation by the adenine nucleotide translocase; and (iii) the inhibition of UCP3 by carboxyatractylate and bongkrekate is likely to be indirect, acting through the adenine nucleotide translocase.
+18251717	937	941	Ucp3	Gene	22229
+18251717	1007	1011	UCP3	Gene	22229
+18251717	1093	1097	Ucp3	Gene	22229
+18251717	1235	1239	Ucp3	Gene	22229
+18251717	1479	1483	UCP3	Gene	22229
+18251717	1574	1578	UCP3	Gene	22229
+18251717	1686	1690	UCP3	Gene	22229
+
+18308722|t|Regulation of the epithelial Na+ channel by the protein kinase CK2.
+18308722|a|CK2 is a ubiquitous, pleiotropic, and constitutively active Ser/Thr protein kinase that controls protein expression, cell signaling, and ion channel activity. Phosphorylation sites for CK2 are located in the C terminus of both beta- and gamma-subunits of the epithelial Na(+) channel (ENaC). We examined the role of CK2 on the regulation of both endogenous ENaC in native murine epithelia and in Xenopus oocytes expressing rENaC. In Ussing chamber experiments with mouse airways, colon, and cultured M1-collecting duct cells, amiloride-sensitive Na(+) transport was inhibited dose-dependently by the selective CK2 inhibitor 4,5,6,7-tetrabromobenzotriazole (TBB). In oocytes, ENaC currents were also inhibited by TBB and by the structurally unrelated inhibitors heparin and poly(E:Y). Expression of a trimeric channel lacking both CK2 sites (alphabeta(S631A)gamma(T599A)) produced a largely attenuated amiloride-sensitive whole cell conductance and rendered the mutant channel insensitive to CK2. In Xenopus oocytes, CK2 was translocated to the cell membrane upon expression of wt-ENaC but not of alphabeta(S631A)gamma(T599A)-ENaC. Phosphorylation by CK2 is essential for ENaC activation, and to a lesser degree, it also controls membrane expression of alphabetagamma-ENaC. Channels lacking the Nedd4-2 binding motif in beta-ENaC (R561X, Y618A) no longer required the CK2 site for channel activity and siRNA-knockdown of Nedd4-2 eliminated the effects of TBB. This implies a role for CK2 in inhibiting the Nedd4-2 pathway. We propose that the C terminus of beta-ENaC is targeted by this essential, conserved pleiotropic kinase that directs its constitutive activity toward many cellular protein complexes.
+18308722	1362	1369	Nedd4-2	Gene	83814
+18308722	1387	1396	beta-ENaC	Gene	20277
+18308722	1488	1495	Nedd4-2	Gene	83814
+18308722	1573	1580	Nedd4-2	Gene	83814
+18308722	1624	1633	beta-ENaC	Gene	20277
+
+18315567|t|Rats that differentially respond to cocaine differ in their dopaminergic storage capacity of the nucleus accumbens.
+18315567|a|Cocaine (COC) inhibits the re-uptake of dopamine. However, the dopamine response to COC also depends on dopamine inside storage vesicles. The aim of this study was to investigate whether rats that differentially respond to COC differ in their dopaminergic storage capacity of the nucleus accumbens. Total and vesicular levels of accumbal dopamine as well as accumbal vesicular monoamine transporter-2 levels were established in high (HR) and low responders (LR) to novelty rats. Moreover, the effects of reserpine (RES) on the COC-induced increase of extracellular accumbal dopamine were investigated. HR displayed higher accumbal levels of total and vesicular dopamine than LR. Moreover, HR displayed more accumbal vesicular monoamine transporters-2 than LR. COC increased extracellular accumbal dopamine more strongly in HR than in LR. A low dose of RES prevented the COC-induced increase of accumbal dopamine in LR, but not in HR. A higher dose of RES was required to inhibit the COC-induced increase of accumbal dopamine in HR. These data demonstrate that HR were marked by a larger accumbal dopaminergic storage pool than LR. It is hypothesized that HR are more sensitive to COC than LR, because COC can release more dopamine from accumbal storage vesicles in HR than in LR.
+
+18332143|t|Analysis of nucleotide binding to P97 reveals the properties of a tandem AAA hexameric ATPase.
+18332143|a|p97, an essential chaperone in endoplasmic reticulum-associated degradation and organelle biogenesis, contains two AAA domains (D1 and D2) and assembles as a stable hexamer. We present a quantitative analysis of nucleotide binding to both D1 and D2 domains of p97, the first detailed study of nucleotide binding to both AAA domains for this type of AAA+ ATPase. We report that adenosine 5'-O-(thiotriphosphate) (ATPgammaS) binds with similar affinity to D1 and D2, but ADP binds with higher affinity to D1 than D2, offering an explanation for the higher ATPase activity in D2. Stoichiometric measurements suggest that although both ADP and ATPgammaS can saturate all 6 nucleotide binding sites in D1, only 3-4 of the 6 D2 sites can bind ATPgammaS simultaneously. ATPgammaS binding triggers a downstream cooperative conformational change of at least three monomers, which involves conserved arginine fingers and is necessary for ATP hydrolysis.
+18332143	34	37	P97	Gene	4241
+18332143	95	98	p97	Gene	4241
+18332143	223	232	D1 and D2	Gene	25802
+18332143	334	343	D1 and D2	Gene	25802
+18332143	355	358	p97	Gene	4241
+18332143	549	558	D1 and D2	Gene	25802;1646
+
+18385140|t|Dual specificity phosphatases 18 and 21 target to opposing sides of the mitochondrial inner membrane.
+18385140|a|Although large-scale approaches have identified numerous mitochondrial phosphoproteins, little is known about the mitochondrial kinases and phosphatases that regulate these phosphoproteins. Here, we identify two members of the atypical dual specificity phosphatases (DSP), DSP18 and DSP21, that are localized in mitochondria. Although DSP18 is widely expressed in several mammalian tissues, DSP21 is selectively expressed in the testes. We demonstrate that DSP18 and DSP21 are targeted to mitochondria by cryptic internal localization signals. Subfractionation of mitochondria demonstrated that DSP18 is located in the intermembrane space as a peripheral membrane protein of the inner membrane. In contrast, subfractionation of rat testis mitochondria revealed DSP21 is localized to the matrix as a peripheral membrane protein of the inner membrane. Moreover, we demonstrate that a previously reported substrate for DSP18, the stress-activated protein kinase, does not localize to mitochondria in several different tissues, making it an unlikely substrate for DSP18. Finally, we show that induction of apoptosis by treatment with staurosporine causes translocation of DSP18 from the intermembrane space into the cytosol similar to other apoptogenic factors such as cytochrome c. This work rigorously demonstrates the unique location of two highly similar DSPs on opposing sides of the mitochondrial inner membrane.
+18385140	375	380	DSP18	Gene	150290
+18385140	437	442	DSP18	Gene	150290
+18385140	559	564	DSP18	Gene	150290
+18385140	697	702	DSP18	Gene	150290
+18385140	1018	1023	DSP18	Gene	150290
+18385140	1162	1167	DSP18	Gene	150290
+18385140	1270	1275	DSP18	Gene	150290
+18385140	1367	1379	cytochrome c	Gene	54205
+
+18406357|t|Differential regulation of Kruppel-like factor family transcription factor expression in neonatal rat cardiac myocytes: effects of endothelin-1, oxidative stress and cytokines.
+18406357|a|Kruppel-like transcription factors (Klfs) modulate fundamental cell processes. Cardiac myocytes are terminally-differentiated, but hypertrophy in response to stimuli such as endothelin-1. H2O2 or cytokines promote myocyte apoptosis. Microarray studies of neonatal rat myocytes identified several Klfs as endothelin-1-responsive genes. We used quantitative PCR for further analysis of Klf expression in neonatal rat myocytes. In response to endothelin-1, Klf2 mRNA expression was rapidly increased ( approximately 9-fold; 15-30 min) with later increases in expression of Klf4 and Klf6 ( approximately 5-fold; 30-60 min). All were regulated as immediate early genes (cycloheximide did not inhibit the increases in expression). Klf5 expression was increased at 1-2 h ( approximately 13-fold) as a second phase response (cycloheximide inhibited the increase). These increases were transient and attenuated by U0126. H2O2 increased expression of Klf2, Klf4 and Klf6, but interleukin-1beta or tumor necrosis factor alpha downregulated Klf2 expression with no effect on Klf4 or Klf6. Of the Klfs which repress transcription, endothelin-1 rapidly downregulated expression of Klf3, Klf11 and Klf15. The dynamic regulation of expression of multiple Klf family members in cardiac myocytes suggests that, as a family, they are actively involved in regulating phenotypic responses (hypertrophy and apoptosis) to extracellular stimuli.
+18406357	131	143	endothelin-1	Gene	24323
+18406357	351	363	endothelin-1	Gene	24323
+18406357	481	493	endothelin-1	Gene	24323
+18406357	617	629	endothelin-1	Gene	24323
+18406357	631	635	Klf2	Gene	306330
+18406357	747	751	Klf4	Gene	114505
+18406357	756	760	Klf6	Gene	58954
+18406357	902	906	Klf5	Gene	84410
+18406357	1118	1122	Klf2	Gene	306330
+18406357	1124	1128	Klf4	Gene	114505
+18406357	1133	1137	Klf6	Gene	58954
+18406357	1143	1160	interleukin-1beta	Gene	24494
+18406357	1164	1191	tumor necrosis factor alpha	Gene	24835
+18406357	1206	1210	Klf2	Gene	306330
+18406357	1240	1244	Klf4	Gene	114505
+18406357	1248	1252	Klf6	Gene	58954
+18406357	1295	1307	endothelin-1	Gene	24323
+18406357	1344	1348	Klf3	Gene	114845
+18406357	1350	1355	Klf11	Gene	313994
+18406357	1360	1365	Klf15	Gene	85497
+
+18442977|t|Activation of 5-HT2A/C receptors counteracts 5-HT1A regulation of n-methyl-D-aspartate receptor channels in pyramidal neurons of prefrontal cortex.
+18442977|a|Abnormal serotonin-glutamate interaction in prefrontal cortex (PFC) is implicated in the pathophysiology of many mental disorders, including schizophrenia and depression. However, the mechanisms by which this interaction occurs remain unclear. Our previous study has shown that activation of 5-HT(1A) receptors inhibits N-methyl-D-aspartate (NMDA) receptor (NMDAR) currents in PFC pyramidal neurons by disrupting microtubule-based transport of NMDARs. Here we found that activation of 5-HT(2A/C) receptors significantly attenuated the effect of 5-HT(1A) on NMDAR currents and microtubule depolymerization. The counteractive effect of 5-HT(2A/C) on 5-HT(1A) regulation of synaptic NMDAR response was also observed in PFC pyramidal neurons from intact animals treated with various 5-HT-related drugs. Moreover, 5-HT(2A/C) stimulation triggered the activation of extracellular signal-regulated kinase (ERK) in dendritic processes. Inhibition of the beta-arrestin/Src/dynamin signaling blocked 5-HT(2A/C) activation of ERK and the counteractive effect of 5-HT(2A/C) on 5-HT(1A) regulation of NMDAR currents. Immunocytochemical studies showed that 5-HT(2A/C) treatment blocked the inhibitory effect of 5-HT(1A) on surface NR2B clusters on dendrites, which was prevented by cellular knockdown of beta-arrestins. Taken together, our study suggests that serotonin, via 5-HT(1A) and 5-HT(2A/C) receptor activation, regulates NMDAR functions in PFC neurons in a counteractive manner. 5-HT(2A/C), by activating ERK via the beta-arrestin-dependent pathway, opposes the 5-HT(1A) disruption of microtubule stability and NMDAR transport. These findings provide a framework for understanding the complex interactions between serotonin and NMDARs in PFC, which could be important for cognitive and emotional control in which both systems are highly involved.
+18442977	14	20	5-HT2A	Gene	3356
+18442977	45	51	5-HT1A	Gene	3350
+18442977	440	447	5-HT(1A	Gene	3350
+18442977	633	640	5-HT(2A	Gene	3356
+18442977	693	700	5-HT(1A	Gene	3350
+18442977	782	789	5-HT(2A	Gene	3356
+18442977	796	803	5-HT(1A	Gene	3350
+18442977	957	964	5-HT(2A	Gene	3356
+18442977	1008	1045	extracellular signal-regulated kinase	Gene	5594
+18442977	1047	1050	ERK	Gene	5594
+18442977	1108	1111	Src	Gene	6714
+18442977	1138	1145	5-HT(2A	Gene	3356
+18442977	1163	1166	ERK	Gene	5594
+18442977	1199	1206	5-HT(2A	Gene	3356
+18442977	1213	1220	5-HT(1A	Gene	3350
+18442977	1291	1298	5-HT(2A	Gene	3356
+18442977	1345	1352	5-HT(1A	Gene	3350
+18442977	1365	1369	NR2B	Gene	2904
+18442977	1509	1516	5-HT(1A	Gene	3350
+18442977	1522	1529	5-HT(2A	Gene	3356
+18442977	1622	1629	5-HT(2A	Gene	3356
+18442977	1648	1651	ERK	Gene	5594
+18442977	1705	1712	5-HT(1A	Gene	3350
+
+18452405|t|Increasing the expression of calcium-permeable TRPC3 and TRPC7 channels enhances constitutive secretion.
+18452405|a|The hTRPC [human TRPC (canonical transient receptor potential)] family of non-selective cation channels is proposed to mediate calcium influx across the plasma membrane via PLC (phospholipase C)-coupled receptors. Heterologously expressed hTRPC3 and hTRPC7 have been localized at the cell surface; however, a large intracellular component has also been noted but not characterized. In the present study, we have investigated the intracellular pool in COS-7 cells and have shown co-localization with markers for both the TGN (trans-Golgi network) and the cis-Golgi cisternae by immunofluorescence microscopy. Addition of BFA (Brefeldin A) to cells expressing hTRPC3 or hTRPC7 resulted in the redistribution of the Golgi component to the endoplasmic reticulum, indicating that this pool is present in both the Golgi stack and the TGN. Expression of either TRPC3 or TRPC7, but not TRPC1 or the cell surface marker CD8, resulted in a 2-4-fold increase in secreted alkaline phosphatase in the extracellular medium. Based on these results, we propose that an additional function of these members of the hTRPC family may be to enhance secretion either by affecting transport through the Golgi stack or by increasing fusion at the plasma membrane.
+18452405	47	52	TRPC3	Gene	7222
+18452405	57	62	TRPC7	Gene	57113
+18452405	344	350	hTRPC3	Gene	7222
+18452405	355	361	hTRPC7	Gene	57113
+18452405	763	769	hTRPC3	Gene	7222
+18452405	773	779	hTRPC7	Gene	57113
+18452405	959	964	TRPC3	Gene	7222
+18452405	968	973	TRPC7	Gene	57113
+18452405	983	988	TRPC1	Gene	7220
+18452405	1016	1019	CD8	Gene	925
+
+18508778|t|Analysis of the synaptotagmin family during reconstituted membrane fusion. Uncovering a class of inhibitory isoforms.
+18508778|a|Ca(2+)-triggered exocytosis in neurons and neuroendocrine cells is regulated by the Ca(2+)-binding protein synaptotagmin (syt) I. Sixteen additional isoforms of syt have been identified, but little is known concerning their biochemical or functional properties. Here, we assessed the abilities of fourteen syt isoforms to directly regulate SNARE (soluble N-ethylmaleimide-sensitive factor (NSF) attachment protein receptor)-catalyzed membrane fusion. One group of isoforms stimulated neuronal SNARE-mediated fusion in response to Ca(2+), while another set inhibited SNARE catalyzed fusion in both the absence and presence of Ca(2+). Biochemical analysis revealed a strong correlation between the ability of syt isoforms to bind 1,2-dioleoyl phosphatidylserine (PS) and t-SNAREs in a Ca(2+)-promoted manner with their abilities to enhance fusion, further establishing PS and SNAREs as critical effectors for syt action. The ability of syt I to efficiently stimulate fusion was specific for certain SNARE pairs, suggesting that syts might contribute to the specificity of intracellular membrane fusion reactions. Finally, a subset of inhibitory syts down-regulated the ability of syt I to activate fusion, demonstrating that syt isoforms can modulate the function of each other.
+18508778	16	29	synaptotagmin	Gene	6857
+18508778	279	282	syt	Gene	6857
+18508778	424	427	syt	Gene	6857
+18508778	458	463	SNARE	Gene	100170220
+18508778	611	616	SNARE	Gene	100170220
+18508778	684	689	SNARE	Gene	100170220
+18508778	825	828	syt	Gene	6857
+18508778	1025	1028	syt	Gene	6857
+18508778	1052	1055	syt	Gene	6857
+18508778	1115	1120	SNARE	Gene	100170220
+18508778	1296	1299	syt	Gene	6857
+18508778	1341	1344	syt	Gene	6857
+
+18616429|t|Role of the domain encompassing Arg304-Ile328 in rat P2X2 receptor conformation revealed by alterations in complex glycosylation at Asn298.
+18616429|a|The final 25 amino acids of the ectodomain of the P2X receptors, immediately prior to the second TM (transmembrane domain) (pre-TM2: Arg(304)-Ile(328) in rat P2X(2)), are highly conserved. Whole-cell patch clamp recordings showed that single cysteine substitutions in the N-terminal half of pre-TM2 (Arg(304)-Ile(314)) led to loss of function at Arg(304), Leu(306), Lys(308) and Ile(312). Cysteine substitutions within this region also resulted in a significant reduction in the apparent molecular mass of receptors, due to loss of complex glycosylation at the nearby acceptor site Asn(298), which was not seen for the C-terminal portion of pre-TM2 (Asp(315)-Ile(328)). The reduction in complex glycosylation was not due to reduced cell-surface presentation, demonstrating that glycosylation at Asn(298) was acting as a sensor of subtle changes in receptor conformation within the pre-TM2 region. When this N-glycan site was repositioned closer to the plasma membrane by mutagenesis (N298S together with G299N, T300N, T301N or T303N), glycosylation was restored at G299N and T300N, but was impaired for T301N and completely absent for T303N. These results suggest that the region in the vicinity of Asp(315) is at the plasma membrane interface and that the N-terminal portion of pre-TM2 (Arg(304)-Ile(314)) is important for the correct conformation of the receptor at the extracellular face of the membrane.
+
+18692019|t|Dynamic regulation of uncoupling protein 2 content in INS-1E insulinoma cells.
+18692019|a|Uncoupling protein 2 (UCP2) regulates glucose-stimulated insulin secretion in pancreatic beta-cells. UCP2 content, measured by calibrated immunoblot in INS-1E insulinoma cells (a pancreatic beta-cell model) grown in RPMI medium, and INS-1E mitochondria, was 2.0 ng/million cells (7.9 ng/mg mitochondrial protein). UCP2 content was lower in cells incubated without glutamine and higher in cells incubated with 20 mM glucose, and varied from 1.0-4.4 ng/million cells (2.7-14.5 ng/mg mitochondrial protein). This dynamic response to nutrients was achieved by varied expression rates against a background of a very short UCP2 protein half-life of about 1 h.
+18692019	22	42	uncoupling protein 2	Gene	54315
+18692019	79	99	Uncoupling protein 2	Gene	54315
+18692019	101	105	UCP2	Gene	54315
+18692019	180	184	UCP2	Gene	54315
+18692019	393	397	UCP2	Gene	54315
+18692019	696	700	UCP2	Gene	54315
+
+18722549|t|Cold acclimation induces physiological cardiac hypertrophy and increases assimilation of triacylglycerol metabolism through lipoprotein lipase.
+18722549|a|The contribution of triacylglycerol to energy provision in the hypertrophied heart, mediated through lipoprotein lipase (LPL) is largely unknown and the contribution of very-low-density lipoprotein (VLDL) receptor to control of LPL presentation at the endothelium is unclear. For isolated perfused rat hearts, cold acclimation (CA) induced volume-overload hypertrophy, with decreased developed pressure (P<0.01), increased end-diastolic volume of the left ventricle (P<0.001) and a loss of contractile reserve in response to dobutamine challenge (P<0.01). Oleate utilisation by perfused hearts was unchanged by CA, however uptake of intralipid emulsion increased 3-fold (P<0.01). CA increased the proportion of lipid deposited in tissue lipids from 10% in euthermic controls to 40% (P<0.01) although the overall contribution of individual lipid classes was unaffected. Cold acclimation significantly increased heparin-releasable LPL (P<0.05) and tissue residual LPL (P<0.01). Western blot analysis indicated preserved expression of proteins coding for SERCA2, muscle-CPT1 and VLDL-receptor following CA, while AMPKalpha2 and phospho-AMPKalpha2 were unaffected. These observations indicate that for physiological hypertrophy AMPK phosphorylation does not mediate the enhanced translocation of LPL to cardiac endothelium.
+18722549	124	142	lipoprotein lipase	Gene	24539
+18722549	245	263	lipoprotein lipase	Gene	24539
+18722549	265	268	LPL	Gene	24539
+18722549	372	375	LPL	Gene	24539
+18722549	1073	1076	LPL	Gene	24539
+18722549	1106	1109	LPL	Gene	24539
+18722549	1196	1202	SERCA2	Gene	29693
+18722549	1220	1233	VLDL-receptor	Gene	25696
+18722549	1254	1264	AMPKalpha2	Gene	78975
+18722549	1277	1287	AMPKalpha2	Gene	78975
+18722549	1436	1439	LPL	Gene	24539
+
+18723513|t|Regulation of postsynaptic RapGAP SPAR by Polo-like kinase 2 and the SCFbeta-TRCP ubiquitin ligase in hippocampal neurons.
+18723513|a|The ubiquitin-proteasome pathway (UPP) regulates synaptic function, but little is known about specific UPP targets and mechanisms in mammalian synapses. We report here that the SCF(beta-TRCP) complex, a multisubunit E3 ubiquitin ligase, targets the postsynaptic spine-associated Rap GTPase activating protein (SPAR) for degradation in neurons. SPAR degradation by SCF(beta-TRCP) depended on the activity-inducible protein kinase Polo-like kinase 2 (Plk2). In the presence of Plk2, SPAR physically associated with the SCF(beta-TRCP) complex through a canonical phosphodegron. In hippocampal neurons, disruption of the SCF(beta-TRCP) complex by overexpression of dominant interfering beta-TRCP or Cul1 constructs prevented Plk2-dependent degradation of SPAR. Our results identify a specific E3 ubiquitin ligase that mediates degradation of a key postsynaptic regulator of synaptic morphology and function.
+18723513	27	33	RapGAP	Gene	5909
+18723513	42	60	Polo-like kinase 2	Gene	10769
+18723513	300	303	SCF	Gene	4254
+18723513	304	313	beta-TRCP	Gene	8945
+18723513	487	490	SCF	Gene	4254
+18723513	491	500	beta-TRCP	Gene	8945
+18723513	552	570	Polo-like kinase 2	Gene	10769
+18723513	572	576	Plk2	Gene	10769
+18723513	598	602	Plk2	Gene	10769
+18723513	640	643	SCF	Gene	4254
+18723513	644	653	beta-TRCP	Gene	8945
+18723513	740	743	SCF	Gene	4254
+18723513	744	753	beta-TRCP	Gene	8945
+18723513	805	814	beta-TRCP	Gene	8945
+18723513	818	822	Cul1	Gene	8454
+18723513	844	848	Plk2	Gene	10769
+
+18986984|t|Misfolding of proteins with a polyglutamine expansion is facilitated by proteasomal chaperones.
+18986984|a|Deposition of misfolded proteins with a polyglutamine expansion is a hallmark of Huntington disease and other neurodegenerative disorders. Impairment of the proteolytic function of the proteasome has been reported to be both a cause and a consequence of polyglutamine accumulation. Here we found that the proteasomal chaperones that unfold proteins to be degraded by the proteasome but also have non-proteolytic functions co-localized with huntingtin inclusions both in primary neurons and in Huntington disease patients and formed a complex independently of the proteolytic particle. Overexpression of Rpt4 or Rpt6 facilitated aggregation of mutant huntingtin and ataxin-3 without affecting proteasomal degradation. Conversely, reducing Rpt6 or Rpt4 levels decreased the number of inclusions in primary neurons, indicating that endogenous Rpt4 and Rpt6 facilitate inclusion formation. In vitro reconstitution experiments revealed that purified 19S particles promote mutant huntingtin aggregation. When fused to the ornithine decarboxylase destabilizing sequence, proteins with expanded polyglutamine were efficiently degraded and did not aggregate. We propose that aggregation of proteins with expanded polyglutamine is not a consequence of a proteolytic failure of the 20S proteasome. Rather, aggregation is elicited by chaperone subunits of the 19S particle independently of proteolysis.
+18986984	536	546	huntingtin	Gene	3064
+18986984	746	756	huntingtin	Gene	3064
+18986984	761	769	ataxin-3	Gene	4287
+18986984	1070	1080	huntingtin	Gene	3064
+
+19041430|t|Effect of actin C-terminal modification on tropomyosin isoforms binding and thin filament regulation.
+19041430|a|Tropomyosins, a family of actin-binding regulatory proteins, are present in muscle and non-muscle cells. Multiple tropomyosin (TM) isoforms differ in actin affinity and regulatory properties, but little is known about the molecular bases of these differences. The C-terminus of actin stabilizes contacts between actin subunits in the filament and interacts with myosin and regulatory proteins. The goal of this work was to reveal how structural changes in actin and differences between TM isoforms affect binding between these proteins and affect thin filament regulation. Actin proteolytically truncated by three C-terminal amino acids exhibited 1.2-1.5 fold reduced affinity for non-muscle and smooth muscle tropomyosin isoforms. The truncation increased the cooperativity of myosin S1-induced tropomyosin binding for short tropomyosins (TM5a and TM1b9a), but it was neutral for long isoforms (smTM and TM2). Actin modification affected regulation of actomyosin ATPase activity in the presence of all tropomyosins by shifting the filament into a more active state. We conclude that the integrity of the actin C-terminus is important for actin-tropomyosin interactions, however the increased affinity of tropomyosin binding in the S1-induced state of the filament appears not to be involved in the tropomyosin isoform-dependent mechanism of the actomyosin ATPase activation.
+19041430	464	470	myosin	Gene	79784
+
+19074149|t|Interaction of the aromatics Tyr-72/Trp-288 in the interface of the extracellular and transmembrane domains is essential for proton gating of acid-sensing ion channels.
+19074149|a|Acid-sensing ion channels are proton-activated ion channels expressed in the nervous system. They belong to the family of ENaC/Degenerins whose members share a conserved structure but are activated by widely diverse stimuli. We show that interaction of two aromatic residues, Tyr-72, located immediately after the first transmembrane segment, and Trp-288, located at the tip of a loop of the extracellular domain directed toward the first transmembrane segment, is essential for proton activation of the acid-sensing ion channels. The subdomain containing Trp-288 is a module tethered to the rest of the extracellular domain by short linkers and intrasubunit interactions between residues in the putative "proton sensor." Mutations in these two areas shift the apparent affinity of protons toward a more acidic range and change the kinetics of activation and desensitization. These results are consisting with displacement of the module relative to the rest of the extracellular domain to allow interaction of Trp-288 with Tyr-72 during gating. We propose that such interaction may provide functional coupling between the extracellular domain and the pore domain.
+
+19116207|t|Functional ryanodine receptors in the plasma membrane of RINm5F pancreatic beta-cells.
+19116207|a|Ryanodine receptors (RyR) are Ca(2+) channels that mediate Ca(2+) release from intracellular stores in response to diverse intracellular signals. In RINm5F insulinoma cells, caffeine, and 4-chloro-m-cresol (4CmC), agonists of RyR, stimulated Ca(2+) entry that was independent of store-operated Ca(2+) entry, and blocked by prior incubation with a concentration of ryanodine that inactivates RyR. Patch-clamp recording identified small numbers of large-conductance (gamma(K) = 169 pS) cation channels that were activated by caffeine, 4CmC or low concentrations of ryanodine. Similar channels were detected in rat pancreatic beta-cells. In RINm5F cells, the channels were blocked by cytosolic, but not extracellular, ruthenium red. Subcellular fractionation showed that type 3 IP(3) receptors (IP(3)R3) were expressed predominantly in endoplasmic reticulum, whereas RyR2 were present also in plasma membrane fractions. Using RNAi selectively to reduce expression of RyR1, RyR2, or IP(3)R3, we showed that RyR2 mediates both the Ca(2+) entry and the plasma membrane currents evoked by agonists of RyR. We conclude that small numbers of RyR2 are selectively expressed in the plasma membrane of RINm5F pancreatic beta-cells, where they mediate Ca(2+) entry.
+19116207	11	30	ryanodine receptors	Gene	689560
+19116207	87	106	Ryanodine receptors	Gene	689560
+19116207	108	111	RyR	Gene	689560
+19116207	313	316	RyR	Gene	689560
+19116207	478	481	RyR	Gene	689560
+19116207	879	886	IP(3)R3	Gene	25679
+19116207	951	955	RyR2	Gene	689560
+19116207	1051	1055	RyR1	Gene	114207
+19116207	1057	1061	RyR2	Gene	689560
+19116207	1066	1073	IP(3)R3	Gene	25679
+19116207	1090	1094	RyR2	Gene	689560
+19116207	1181	1184	RyR	Gene	689560
+19116207	1220	1224	RyR2	Gene	689560
+
+19125695|t|The inositol phosphatase MTMR4 is a novel target of the ubiquitin ligase Nedd4.
+19125695|a|The inositol phosphatase, MTMR4 (myotubularin-related protein 4), was identified as a novel interactor of the ubiquitin ligase Nedd4 (neural-precursor-cell-expressed developmentally down-regulated 4). hMTMR4 (human MTMR4) and Nedd4 co-immunoprecipitated and co-localized to late endosomes. The PY (Pro-Tyr) motif of hMTMR4 binds to WW (Trp-Trp) domains of hNedd4. MTMR4 expression was decreased in atrophying muscle, whereas Nedd4 expression was increased and hMTMR4 was ubiquitinated by hNedd4, suggesting that this novel interaction may underlie the biological process of muscle breakdown.
+19125695	25	30	MTMR4	Gene	9110
+19125695	73	78	Nedd4	Gene	4734
+19125695	106	111	MTMR4	Gene	9110
+19125695	113	143	myotubularin-related protein 4	Gene	9110
+19125695	207	212	Nedd4	Gene	4734
+19125695	214	278	neural-precursor-cell-expressed developmentally down-regulated 4	Gene	4734
+19125695	281	287	hMTMR4	Gene	9110
+19125695	295	300	MTMR4	Gene	9110
+19125695	306	311	Nedd4	Gene	4734
+19125695	396	402	hMTMR4	Gene	9110
+19125695	436	442	hNedd4	Gene	4734
+19125695	444	449	MTMR4	Gene	9110
+19125695	505	510	Nedd4	Gene	4734
+19125695	540	546	hMTMR4	Gene	9110
+19125695	568	574	hNedd4	Gene	4734
+
+19152507|t|Cytochrome P450 oxidoreductase participates in nitric oxide consumption by rat brain.
+19152507|a|In low nanomolar concentrations, NO (nitric oxide) functions as a transmitter in brain and other tissues, whereas near-micromolar NO concentrations are associated with toxicity and cell death. Control of the NO concentration, therefore, is critical for proper brain function, but, although its synthesis pathway is well-characterized, the major route of breakdown of NO in brain is unclear. Previous observations indicate that brain cells actively consume NO at a high rate. The mechanism of this consumption was pursued in the present study. NO consumption by a preparation of central glial cells was abolished by cell lysis and recovered by addition of NADPH. NADPH-dependent consumption of NO localized to cell membranes and was inhibited by proteinase K, indicating the involvement of a membrane-bound protein. Purification of this activity yielded CYPOR (cytochrome P450 oxidoreductase). Antibodies against CYPOR inhibited NO consumption by brain membranes and the amount of CYPOR in several cell types correlated with their rate of NO consumption. NO was also consumed by purified CYPOR but this activity was found to depend on the presence of the vitamin E analogue Trolox (6-hydroxy-2,5,7,8-tetramethylchromane-2-carboxylic acid), included in the buffer as a precaution against inadvertent NO consumption by lipid peroxidation. In contrast, NO consumption by brain membranes was independent of Trolox. Hence, it appears that, during the purification process, CYPOR becomes separated from a partner needed for NO consumption. Cytochrome P450 inhibitors inhibited NO consumption by brain membranes, making these proteins likely candidates.
+19152507	0	30	Cytochrome P450 oxidoreductase	Gene	29441
+19152507	939	944	CYPOR	Gene	29441
+19152507	946	976	cytochrome P450 oxidoreductase	Gene	29441
+19152507	998	1003	CYPOR	Gene	29441
+19152507	1066	1071	CYPOR	Gene	29441
+19152507	1173	1178	CYPOR	Gene	29441
+19152507	1553	1558	CYPOR	Gene	29441
+
+19171933|t|{beta}-Arrestin-2 Mediates Anti-apoptotic Signaling through Regulation of BAD Phosphorylation.
+19171933|a|beta-Arrestins, originally discovered as terminators of G protein-coupled receptor signaling, have more recently been appreciated to also function as signal transducers in their own right, although the consequences for cellular physiology have not been well understood. Here we demonstrate that beta-arrestin-2 mediates anti-apoptotic cytoprotective signaling stimulated by a typical 7-transmembrane receptor the angiotensin ATII 1A receptor, expressed endogenously in rat vascular smooth muscle cells or by transfection in HEK-293 cells. Receptor stimulation leads to concerted activation of two pathways, ERK/p90RSK and PI3K/AKT, which converge to phosphorylate and inactivate the pro-apoptotic protein BAD. Anti-apoptotic effects as well as pathway activities can be stimulated by an angiotensin analog (SII), which has been previously shown to activate beta-arrestin but not G protein-dependent signaling, and are abrogated by beta-arrestin-2 small interfering RNA. These findings establish a key role for beta-arrestin-2 in mediating cellular cytoprotective functions by a 7-transmembrane receptor and define the biochemical pathways involved.
+19171933	1	17	beta}-Arrestin-2	Gene	409
+19171933	390	405	beta-arrestin-2	Gene	365541
+19171933	702	705	ERK	Gene	5594
+19171933	706	712	p90RSK	Gene	6195
+19171933	722	725	AKT	Gene	207
+19171933	1026	1041	beta-arrestin-2	Gene	409
+19171933	1105	1120	beta-arrestin-2	Gene	409
+
+19193640|t|Annexin 2 has a dual role as regulator and effector of v-Src in cell transformation.
+19193640|a|Cell transformation by v-Src involves rearrangement of the actin cytoskeleton, disassembly of focal adhesions, and the development of anchorage-independent growth. Here, we report that this is dependent on annexin 2, a v-Src substrate and calcium-dependent regulator of actin dynamics. Using a thermoactivatable mutant of v-Src, we show that at the permissive temperature, annexin 2 becomes phosphorylated and colocalizes with activated v-Src and focal adhesion kinase both at the plasma membrane and in a Rab11-positive compartment of the endosomal pathway. In cells depleted of annexin 2 by small interfering RNA, v-Src becomes activated at the permissive temperature but does not target to the plasma membrane or to perinuclear vesicles, and cell transformation does not occur. Our findings reveal a dual role for annexin 2, first as a regulator of v-Src trafficking and targeting and second as a v-Src effector in the reorganization of actin.
+19193640	0	9	Annexin 2	Gene	302
+19193640	57	60	Src	Gene	6714
+19193640	110	113	Src	Gene	6714
+19193640	291	305	annexin 2, a v	Gene	302
+19193640	306	309	Src	Gene	6714
+19193640	458	467	annexin 2	Gene	302
+19193640	524	527	Src	Gene	6714
+19193640	591	596	Rab11	Gene	8766
+19193640	665	674	annexin 2	Gene	302
+19193640	703	706	Src	Gene	6714
+19193640	902	911	annexin 2	Gene	302
+19193640	939	942	Src	Gene	6714
+19193640	987	990	Src	Gene	6714
+
+19239903|t|Proteomics reveal a concerted upregulation of methionine metabolic pathway enzymes, and downregulation of carbonic anhydrase-III, in betaine supplemented ethanol-fed rats.
+19239903|a|We employed a proteomic profiling strategy to examine the effects of ethanol and betaine diet supplementation on major liver protein level changes. Male Wistar rats were fed control, ethanol or betaine supplemented diets for 4 weeks. Livers were removed and liver cytosolic proteins resolved by one-dimensional and two-dimensional separation techniques. Significant upregulation of betaine homocysteine methyltransferase-1, methionine adenosyl transferase-1, and glycine N-methyltransferase were the most visually prominent protein changes observed in livers of rats fed the betaine supplemented ethanol diet. We hypothesise that this concerted upregulation of these methionine metabolic pathway enzymes is the protective mechanism by which betaine restores a normal metabolic ratio of liver S-adenosylmethionine to S-adenosylhomocysteine. Ethanol also induced significant downregulation of carbonic anhydrase-III protein levels which was not restored by betaine supplementation. Carbonic anhydrase-III can function to resist oxidative stress, and we therefore hypothesise that carbonic anhydrase-III protein levels compromised by ethanol consumption, contribute to ethanol-induced redox stress.
+19239903	106	128	carbonic anhydrase-III	Gene	54232
+19239903	596	629	methionine adenosyl transferase-1	Gene	25331
+19239903	635	662	glycine N-methyltransferase	Gene	25134
+19239903	1063	1085	carbonic anhydrase-III	Gene	54232
+19239903	1152	1174	Carbonic anhydrase-III	Gene	54232
+19239903	1250	1272	carbonic anhydrase-III	Gene	54232
+
+19254952|t|Independent beta-arrestin2 and Gq/protein kinase Czeta pathways for ERK stimulated by angiotensin type 1A receptors in vascular smooth muscle cells converge on transactivation of the epidermal growth factor receptor.
+19254952|a|Recent studies in receptor-transfected cell lines have demonstrated that extracellular signal-regulated kinase (ERK) activation by angiotensin type 1A receptor and other G protein-coupled receptors can be mediated by both G protein-dependent and beta-arrestin-dependent mechanisms. However, few studies have explored these mechanisms in primary cultured cells expressing endogenous levels of receptors. Accordingly, here we utilized the beta-arrestin biased agonist for the angiotensin type 1A receptor, SII-angiotensin (SII), and RNA interference techniques to investigate angiotensin II (ANG)-activated beta-arrestin-mediated mitogenic signaling pathways in rat vascular smooth muscle cells. Both ANG and SII induced DNA synthesis via the ERK activation cascade. Even though SII cannot induce calcium influx (G protein activation) after receptor stimulation, it does cause ERK activation, although less robustly than ANG. Activation by both ligands is diminished by depletion of beta-arrestin2 by small interfering RNA, although the effect is more complete with SII. ERK activation at early time points but not later time points is strongly inhibited by those protein kinase C inhibitors that can block protein kinase Czeta. Moreover, ANG- and SII-mediated ERK activation require transactivation of the epidermal growth factor receptor via metalloprotease 2/9 and Src kinase. beta-Arrestin2 facilitates ANG and SII stimulation of Src-mediated phosphorylation of Tyr-845 on the EGFR, a known site for Src phosphorylation. These studies delineate a convergent mechanism by which G protein-dependent and beta-arrestin-dependent pathways can independently mediate ERK-dependent transactivation of the EGFR in vascular smooth muscle cells thus controlling cellular proliferative responses.
+19254952	12	26	beta-arrestin2	Gene	365541
+19254952	68	71	ERK	Gene	24338
+19254952	183	215	epidermal growth factor receptor	Gene	24329
+19254952	290	327	extracellular signal-regulated kinase	Gene	24338
+19254952	329	332	ERK	Gene	24338
+19254952	791	805	angiotensin II	Gene	24179
+19254952	807	810	ANG	Gene	24179
+19254952	916	919	ANG	Gene	24179
+19254952	958	961	ERK	Gene	24338
+19254952	1092	1095	ERK	Gene	24338
+19254952	1136	1139	ANG	Gene	24179
+19254952	1198	1212	beta-arrestin2	Gene	365541
+19254952	1286	1289	ERK	Gene	24338
+19254952	1454	1457	ANG	Gene	24179
+19254952	1476	1479	ERK	Gene	24338
+19254952	1522	1554	epidermal growth factor receptor	Gene	24329
+19254952	1595	1609	beta-Arrestin2	Gene	365541
+19254952	1622	1625	ANG	Gene	24179
+19254952	1649	1652	Src	Gene	83805
+19254952	1696	1700	EGFR	Gene	24329
+19254952	1719	1722	Src	Gene	83805
+19254952	1879	1882	ERK	Gene	24338
+19254952	1916	1920	EGFR	Gene	24329
+
+19305019|t|Separate elements within a single IQ-like motif in adenylyl cyclase type 8 impart ca2+/calmodulin binding and autoinhibition.
+19305019|a|The ubiquitous Ca(2+)-sensing protein calmodulin (CaM) fulfills its numerous signaling functions through a wide range of modular binding and activation mechanisms. By activating adenylyl cyclases (ACs) 1 and 8, Ca(2+) acting via calmodulin impacts on the signaling of the other major cellular second messenger cAMP. In possessing two CaM-binding domains, a 1-5-8-14 motif at the N terminus and an IQ-like motif (IQlm) at the C terminus, AC8 offers particularly sophisticated regulatory possibilities. The IQlm has remained unexplored beyond the suggestion that it bound CaM, and the larger C2b region of which it is part was involved in the relief of autoinhibition of AC8. Here we attempt to distinguish the function of individual residues of the IQlm. From a complementary approach of in vitro and cell population AC activity assays, as well as CaM binding, we propose that the IQlm alone, and not the majority of the C2b, imparts CaM binding and autoinhibitory functions. Moreover, this duality of function is spatially separated and depends on amino acid side-chain character. Accordingly, residues critical for CaM binding are positively charged and clustered toward the C terminus, and those essential for the maintenance of autoinhibition are hydrophobic and more N-terminal. Secondary structure prediction of the IQlm supports this separation, with an ideally placed break in the alpha-helical nature of the sequence. We additionally find that the N and C termini of AC8 interact, which is an association specifically abrogated by fully Ca(2+)-bound, but not Ca(2+)-free, CaM. These data support a sophisticated activation mechanism of AC8 by CaM, in which the duality of the IQlm function is critical.
+19305019	87	97	calmodulin	Gene	801
+19305019	164	174	calmodulin	Gene	801
+19305019	176	179	CaM	Gene	801
+19305019	304	335	adenylyl cyclases (ACs) 1 and 8	Gene	107;114
+19305019	355	365	calmodulin	Gene	801
+19305019	460	463	CaM	Gene	801
+19305019	563	566	AC8	Gene	114
+19305019	696	699	CaM	Gene	801
+19305019	716	719	C2b	Gene	100130342
+19305019	795	798	AC8	Gene	114
+19305019	973	976	CaM	Gene	801
+19305019	1046	1049	C2b	Gene	100130342
+19305019	1059	1062	CaM	Gene	801
+19305019	1242	1245	CaM	Gene	801
+19305019	1601	1604	AC8	Gene	114
+19305019	1706	1709	CaM	Gene	801
+19305019	1770	1773	AC8	Gene	114
+19305019	1777	1780	CaM	Gene	801
+
+19307186|t|Angiotensin-converting enzyme is a modifier of hypertensive end organ damage.
+19307186|a|Severe forms of hypertension are characterized by high blood pressure combined with end organ damage. Through the development and refinement of a transgenic rat model of malignant hypertension incorporating the mouse renin gene, we previously identified a quantitative trait locus on chromosome 10, which affects malignant hypertension severity and morbidity. We next generated an inducible malignant hypertensive model where the timing, severity, and duration of hypertension was placed under the control of the researcher, allowing development of and recovery from end organ damage to be investigated. We have now generated novel consomic Lewis and Fischer rat strains with inducible hypertension and additional strains that are reciprocally congenic for the refined chromosome 10 quantitative trait locus. We have captured a modifier of end organ damage within the congenic region and, using a range of bioinformatic, biochemical and molecular biological techniques, have identified angiotensin-converting enzyme as the modifier of hypertension-induced tissue microvascular injury. Reciprocal differences between angiotensin-converting enzyme and the anti-inflammatory tetrapeptide, N-acetyl-Ser-Asp-Lys-Pro in the kidney, a tissue susceptible to end organ damage, suggest a mechanism for the amelioration of hypertension-dependent damage.
+19307186	0	29	Angiotensin-converting enzyme	Gene	24310
+19307186	1064	1093	angiotensin-converting enzyme	Gene	24310
+19307186	1194	1223	angiotensin-converting enzyme	Gene	24310
+
+19321442|t|PICK1-mediated glutamate receptor subunit 2 (GluR2) trafficking contributes to cell death in oxygen/glucose-deprived hippocampal neurons.
+19321442|a|Oxygen and glucose deprivation (OGD) induces delayed cell death in hippocampal CA1 neurons via Ca(2+)/Zn(2+)-permeable, GluR2-lacking AMPA receptors (AMPARs). Following OGD, synaptic AMPAR currents in hippocampal neurons show marked inward rectification and increased sensitivity to channel blockers selective for GluR2-lacking AMPARs. This occurs via two mechanisms: a delayed down-regulation of GluR2 mRNA expression and a rapid internalization of GluR2-containing AMPARs during the OGD insult, which are replaced by GluR2-lacking receptors. The mechanisms that underlie this rapid change in subunit composition are unknown. Here, we demonstrate that this trafficking event shares features in common with events that mediate long term depression and long term potentiation and is initiated by the activation of N-methyl-d-aspartic acid receptors. Using biochemical and electrophysiological approaches, we show that peptides that interfere with PICK1 PDZ domain interactions block the OGD-induced switch in subunit composition, implicating PICK1 in restricting GluR2 from synapses during OGD. Furthermore, we show that GluR2-lacking AMPARs that arise at synapses during OGD as a result of PICK1 PDZ interactions are involved in OGD-induced delayed cell death. This work demonstrates that PICK1 plays a crucial role in the response to OGD that results in altered synaptic transmission and neuronal death and has implications for our understanding of the molecular mechanisms that underlie cell death during stroke.
+19321442	0	5	PICK1	Gene	9463
+19321442	15	43	glutamate receptor subunit 2	Gene	2891
+19321442	45	50	GluR2	Gene	2891
+19321442	258	263	GluR2	Gene	2891
+19321442	321	326	AMPAR	Gene	2891
+19321442	452	457	GluR2	Gene	2891
+19321442	535	540	GluR2	Gene	2891
+19321442	588	593	GluR2	Gene	2891
+19321442	657	662	GluR2	Gene	2891
+19321442	1084	1089	PICK1	Gene	9463
+19321442	1179	1184	PICK1	Gene	9463
+19321442	1200	1205	GluR2	Gene	2891
+19321442	1258	1263	GluR2	Gene	2891
+19321442	1328	1333	PICK1	Gene	9463
+19321442	1427	1432	PICK1	Gene	9463
+
+19332540|t|Palmitate induces insulin resistance in H4IIEC3 hepatocytes through reactive oxygen species produced by mitochondria.
+19332540|a|Visceral adiposity in obesity causes excessive free fatty acid (FFA) flux into the liver via the portal vein and may cause fatty liver disease and hepatic insulin resistance. However, because animal models of insulin resistance induced by lipid infusion or a high fat diet are complex and may be accompanied by alterations not restricted to the liver, it is difficult to determine the contribution of FFAs to hepatic insulin resistance. Therefore, we treated H4IIEC3 cells, a rat hepatocyte cell line, with a monounsaturated fatty acid (oleate) and a saturated fatty acid (palmitate) to investigate the direct and initial effects of FFAs on hepatocytes. We show that palmitate, but not oleate, inhibited insulin-stimulated tyrosine phosphorylation of insulin receptor substrate 2 and serine phosphorylation of Akt, through c-Jun NH(2)-terminal kinase (JNK) activation. Among the well established stimuli for JNK activation, reactive oxygen species (ROS) played a causal role in palmitate-induced JNK activation. In addition, etomoxir, an inhibitor of carnitine palmitoyltransferase-1, which is the rate-limiting enzyme in mitochondrial fatty acid beta-oxidation, as well as inhibitors of the mitochondrial respiratory chain complex (thenoyltrifluoroacetone and carbonyl cyanide m-chlorophenylhydrazone) decreased palmitate-induced ROS production. Together, our findings in hepatocytes indicate that palmitate inhibited insulin signal transduction through JNK activation and that accelerated beta-oxidation of palmitate caused excess electron flux in the mitochondrial respiratory chain, resulting in increased ROS generation. Thus, mitochondria-derived ROS induced by palmitate may be major contributors to JNK activation and cellular insulin resistance.
+19332540	869	897	insulin receptor substrate 2	Gene	29376
+19332540	928	931	Akt	Gene	24185
+19332540	941	968	c-Jun NH(2)-terminal kinase	Gene	116554
+19332540	970	973	JNK	Gene	116554
+19332540	1026	1029	JNK	Gene	116554
+19332540	1114	1117	JNK	Gene	116554
+19332540	1573	1576	JNK	Gene	116554
+19332540	1825	1828	JNK	Gene	116554
+
+19450559|t|STAT3 deletion sensitizes cells to oxidative stress.
+19450559|a|The transcription factor STAT1 plays a role in promoting apoptotic cell death, whereas the related STAT3 transcription factor protects cardiac myocytes from ischemia/reperfusion (I/R) injury or oxidative stress. Cytokines belonging to the IL-6 family activate the JAK-STAT3 pathway, but also activate other cytoprotective pathways such as the MAPK-ERK or the PI3-AKT pathway. It is therefore unclear whether STAT3 is the only cytoprotective mediator against oxidative stress-induced cell death. Overexpression of STAT3 in primary neonatal rat ventricular myocytes (NRVM) protects against I/R-induced cell death. Moreover, a dominant negative STAT3 adenovirus (Ad ST3-DN) enhanced apoptotic cell death (81.2+/-6.9%) compared to control infected NRVM (46.0+/-3.1%) following I/R. Depletion of STAT3 sensitized cells to apoptotic cell death following oxidative stress. These results provide direct evidence for the role of STAT3 as a cytoprotective transcription factor in cells exposed to oxidative stress.
+19450559	0	5	STAT3	Gene	25125
+19450559	78	83	STAT1	Gene	25124
+19450559	152	157	STAT3	Gene	25125
+19450559	292	296	IL-6	Gene	24498
+19450559	321	326	STAT3	Gene	25125
+19450559	401	404	ERK	Gene	24338
+19450559	416	419	AKT	Gene	24185
+19450559	461	466	STAT3	Gene	25125
+19450559	566	571	STAT3	Gene	25125
+19450559	695	700	STAT3	Gene	25125
+19450559	844	849	STAT3	Gene	25125
+19450559	973	978	STAT3	Gene	25125
+
+19473976|t|Studies on the DIDS-binding site of monocarboxylate transporter 1 suggest a homology model of the open conformation and a plausible translocation cycle.
+19473976|a|Site-directed mutagenesis of MCT1 was performed on exofacial lysines Lys(38), Lys(45), Lys(282), and Lys(413). K38Q-MCT1 and K38R-MCT1 were inactive when expressed at the plasma membrane of Xenopus laevis oocytes, whereas K45R/K282R/K413R-MCT1 and K45Q/K282Q/K413Q-MCT1 were active. The former exhibited normal reversible and irreversible inhibition by DIDS, whereas the latter showed less reversible and no irreversible inhibition. K45Q/K413Q-MCT1 retained some irreversible inhibition, whereas K45Q/K282Q-MCT1 and K282Q/K413Q-MCT1 did not. These data suggest that the two DIDS SO(3)(-) groups interact with positively charged Lys(282) together with Lys(45) and/or Lys(413). This positions one DIDS isothiocyanate group close to Lys(38), leading to its covalent modification and irreversible inhibition. Additional mutagenesis revealed that DIDS cross-links MCT1 to its ancillary protein embigin using either Lys(38) or Lys(290) of MCT1 and Lys(160) or Lys(164) of embigin. We have modeled a possible structure for the outward facing (open) conformation of MCT1 by employing modest rotations of the C-terminal domain of the inner facing conformation modeled previously. The resulting model structure has a DIDS-binding site consistent with experimental data and locates Lys(38) in a hydrophobic environment at the bottom of a substrate-binding channel. Our model suggests a translocation cycle in which Lys(38) accepts a proton before binding lactate. Both the lactate and proton are then passed through the channel via Asp(302-) and Asp(306+), an ion pair already identified as important for transport and located adjacent to Phe(360), which controls channel selectivity. The cross-linking data have also been used to model a structure of MCT1 bound to embigin that is consistent with published data.
+19473976	182	186	MCT1	Gene	503679
+19473976	269	273	MCT1	Gene	503679
+19473976	283	287	MCT1	Gene	503679
+19473976	392	396	MCT1	Gene	503679
+19473976	418	422	MCT1	Gene	503679
+19473976	597	601	MCT1	Gene	503679
+19473976	660	664	MCT1	Gene	503679
+19473976	681	685	MCT1	Gene	503679
+19473976	1012	1016	MCT1	Gene	503679
+19473976	1086	1090	MCT1	Gene	503679
+19473976	1211	1215	MCT1	Gene	503679
+19473976	1894	1898	MCT1	Gene	503679
+
+19501573|t|Fine mapping of interactions between eEF1alpha protein and 3'UTR of metallothionein-1 mRNA.
+19501573|a|The localization of metallothionein-1 (MT-1) mRNA to the perinuclear cytoskeleton is determined by a signal in the 3'untranslated region (3'UTR) and trans-acting binding proteins. The present study carried out detailed mapping of this signal and further characterized the binding to elongation factor 1 alpha (eEF1alpha) and other interacting proteins. Electrophoresis mobility shift assays demonstrated that shortening of a stem region proximal to nucleotides 66-76 abrogated binding. Full length recombinant rat eEF1alpha, and independently domains I and III, formed complexes with the mRNA. Proteins binding to biotinylated MT-1 3'UTR sequences were isolated using RNA-affinity techniques, and mass spectrometry identified histidine-tRNA ligase as one of the major MT-1 3'UTR binding proteins. We conclude that a 5-bp internal stem in the MT-1 3'UTR is critical for binding of eEF1alpha and histidine-tRNA ligase, and that binding of eEF1alpha is facilitated through domains I and III.
+19501573	37	46	eEF1alpha	Gene	171361
+19501573	68	85	metallothionein-1	Gene	24567
+19501573	112	129	metallothionein-1	Gene	24567
+19501573	131	135	MT-1	Gene	24567
+19501573	402	411	eEF1alpha	Gene	171361
+19501573	606	615	eEF1alpha	Gene	171361
+19501573	719	723	MT-1	Gene	24567
+19501573	860	864	MT-1	Gene	24567
+19501573	934	938	MT-1	Gene	24567
+19501573	972	981	eEF1alpha	Gene	171361
+19501573	1029	1038	eEF1alpha	Gene	171361
+
+20042609|t|Mechano-transduction in osteoblastic cells involves strain-regulated estrogen receptor alpha-mediated control of insulin-like growth factor (IGF) I receptor sensitivity to Ambient IGF, leading to phosphatidylinositol 3-kinase/AKT-dependent Wnt/LRP5 receptor-independent activation of beta-catenin signaling.
+20042609|a|The capacity of bones to adjust their mass and architecture to withstand the loads of everyday activity derives from the ability of their resident cells to respond appropriately to the strains engendered. To elucidate the mechanisms of strain responsiveness in bone cells, we investigated in vitro the responses of primary mouse osteoblasts and UMR-106 osteoblast-like cells to a single period of dynamic strain. This stimulates a cascade of events, including activation of insulin-like growth factor I receptor (IGF-IR), phosphatidylinositol 3-kinase-mediated phosphorylation of AKT, inhibition of GSK-3beta, increased activation of beta-catenin, and associated lymphoid-enhancing factor/T cell factor-mediated transcription. Initiation of this pathway does not involve the Wnt/LRP5/Frizzled receptor and does not culminate in increased IGF transcription. The effect of strain on IGF-IR is mimicked by exogenous des-(1-3)IGF-I and is blocked by the IGF-IR inhibitor H1356. Inhibition of strain-related prostanoid and nitric oxide production inhibits strain-related (and basal) AKT activity, but their separate ectopic administration does not mimic it. Strain-related IGF-IR activation of AKT requires estrogen receptor alpha (ERalpha) with which IGF-1R physically associates. The ER blocker ICI 182,780 increases the concentration of des-(1-3)IGF-I necessary to activate this cascade, whereas estrogen inhibits both basal AKT activity and its activation by des-(1-3)IGF-I. These data suggest an initial cascade of strain-related events in osteoblasts in which strain activates IGF-IR, in association with ERalpha, so initiating phosphatidylinositol 3-kinase/AKT-dependent activation of beta-catenin and altered lymphoid-enhancing factor/T cell factor transcription. This cascade requires prostanoid/nitric oxide production and is independent of Wnt/LRP5.
+20042609	113	156	insulin-like growth factor (IGF) I receptor	Gene	25718
+20042609	180	183	IGF	Gene	24482
+20042609	226	229	AKT	Gene	24185
+20042609	244	248	LRP5	Gene	293649
+20042609	284	296	beta-catenin	Gene	84353
+20042609	782	819	insulin-like growth factor I receptor	Gene	25718
+20042609	821	827	IGF-IR	Gene	25718
+20042609	888	891	AKT	Gene	24185
+20042609	907	916	GSK-3beta	Gene	50686
+20042609	942	954	beta-catenin	Gene	84353
+20042609	1087	1091	LRP5	Gene	293649
+20042609	1146	1149	IGF	Gene	24482
+20042609	1189	1195	IGF-IR	Gene	25718
+20042609	1230	1235	IGF-I	Gene	24482
+20042609	1258	1264	IGF-IR	Gene	25718
+20042609	1386	1389	AKT	Gene	24185
+20042609	1476	1482	IGF-IR	Gene	25718
+20042609	1497	1500	AKT	Gene	24185
+20042609	1535	1542	ERalpha	Gene	24890
+20042609	1555	1561	IGF-1R	Gene	25718
+20042609	1652	1657	IGF-I	Gene	24482
+20042609	1731	1734	AKT	Gene	24185
+20042609	1775	1780	IGF-I	Gene	24482
+20042609	1886	1892	IGF-IR	Gene	25718
+20042609	1914	1921	ERalpha	Gene	24890
+20042609	1967	1970	AKT	Gene	24185
+20042609	1995	2007	beta-catenin	Gene	84353
+20042609	2158	2162	LRP5	Gene	293649
+
+20048161|t|Proteoliposomes harboring alkaline phosphatase and nucleotide pyrophosphatase as matrix vesicle biomimetics.
+20048161|a|We have established a proteoliposome system as an osteoblast-derived matrix vesicle (MV) biomimetic to facilitate the study of the interplay of tissue-nonspecific alkaline phosphatase (TNAP) and NPP1 (nucleotide pyrophosphatase/phosphodiesterase-1) during catalysis of biomineralization substrates. First, we studied the incorporation of TNAP into liposomes of various lipid compositions (i.e. in pure dipalmitoyl phosphatidylcholine (DPPC), DPPC/dipalmitoyl phosphatidylserine (9:1 and 8:2), and DPPC/dioctadecyl-dimethylammonium bromide (9:1 and 8:2) mixtures. TNAP reconstitution proved virtually complete in DPPC liposomes. Next, proteoliposomes containing either recombinant TNAP, recombinant NPP1, or both together were reconstituted in DPPC, and the hydrolysis of ATP, ADP, AMP, pyridoxal-5'-phosphate (PLP), p-nitrophenyl phosphate, p-nitrophenylthymidine 5'-monophosphate, and PP(i) by these proteoliposomes was studied at physiological pH. p-Nitrophenylthymidine 5'-monophosphate and PLP were exclusively hydrolyzed by NPP1-containing and TNAP-containing proteoliposomes, respectively. In contrast, ATP, ADP, AMP, PLP, p-nitrophenyl phosphate, and PP(i) were hydrolyzed by TNAP-, NPP1-, and TNAP plus NPP1-containing proteoliposomes. NPP1 plus TNAP additively hydrolyzed ATP, but TNAP appeared more active in AMP formation than NPP1. Hydrolysis of PP(i) by TNAP-, and TNAP plus NPP1-containing proteoliposomes occurred with catalytic efficiencies and mild cooperativity, effects comparable with those manifested by murine osteoblast-derived MVs. The reconstitution of TNAP and NPP1 into proteoliposome membranes generates a phospholipid microenvironment that allows the kinetic study of phosphosubstrate catabolism in a manner that recapitulates the native MV microenvironment.
+20048161	253	292	tissue-nonspecific alkaline phosphatase	Gene	11647
+20048161	294	298	TNAP	Gene	11647
+20048161	304	308	NPP1	Gene	18605
+20048161	310	356	nucleotide pyrophosphatase/phosphodiesterase-1	Gene	18605
+20048161	447	451	TNAP	Gene	11647
+20048161	672	676	TNAP	Gene	11647
+20048161	789	793	TNAP	Gene	11647
+20048161	807	811	NPP1	Gene	18605
+20048161	1138	1142	NPP1	Gene	18605
+20048161	1158	1162	TNAP	Gene	11647
+20048161	1292	1296	TNAP	Gene	11647
+20048161	1299	1303	NPP1	Gene	18605
+20048161	1310	1314	TNAP	Gene	11647
+20048161	1320	1324	NPP1	Gene	18605
+20048161	1353	1357	NPP1	Gene	18605
+20048161	1363	1367	TNAP	Gene	11647
+20048161	1399	1403	TNAP	Gene	11647
+20048161	1447	1451	NPP1	Gene	18605
+20048161	1476	1480	TNAP	Gene	11647
+20048161	1487	1491	TNAP	Gene	11647
+20048161	1497	1501	NPP1	Gene	18605
+20048161	1687	1691	TNAP	Gene	11647
+20048161	1696	1700	NPP1	Gene	18605
+
+20118239|t|Engineering novel complement activity into a pulmonary surfactant protein.
+20118239|a|Complement neutralizes invading pathogens, stimulates inflammatory and adaptive immune responses, and targets non- or altered-self structures for clearance. In the classical and lectin activation pathways, it is initiated when complexes composed of separate recognition and activation subcomponents bind to a pathogen surface. Despite its apparent complexity, recognition-mediated activation has evolved independently in three separate protein families, C1q, mannose-binding lectins (MBLs), and serum ficolins. Although unrelated, all have bouquet-like architectures and associate with complement-specific serine proteases: MBLs and ficolins with MBL-associated serine protease-2 (MASP-2) and C1q with C1r and C1s. To examine the structural requirements for complement activation, we have created a number of novel recombinant rat MBLs in which the position and orientation of the MASP-binding sites have been changed. We have also engineered MASP binding into a pulmonary surfactant protein (SP-A), which has the same domain structure and architecture as MBL but lacks any intrinsic complement activity. The data reveal that complement activity is remarkably tolerant to changes in the size and orientation of the collagenous stalks of MBL, implying considerable rotational and conformational flexibility in unbound MBL. Furthermore, novel complement activity is introduced concurrently with MASP binding in SP-A but is uncontrolled and occurs even in the absence of a carbohydrate target. Thus, the active rather than the zymogen state is default in lectin.MASP complexes and must be inhibited through additional regions in circulating MBLs until triggered by pathogen recognition.
+20118239	722	754	MBL-associated serine protease-2	Gene	64459
+20118239	756	762	MASP-2	Gene	64459
+20118239	1068	1072	SP-A	Gene	24773
+20118239	1484	1488	SP-A	Gene	24773
+
+20145246|t|Aph-1 associates directly with full-length and C-terminal fragments of gamma-secretase substrates.
+20145246|a|Gamma-secretase is a ubiquitous, multiprotein enzyme composed of presenilin, nicastrin, Aph-1, and Pen-2. It mediates the intramembrane proteolysis of many type 1 proteins, plays an essential role in numerous signaling pathways, and helps drive the pathogenesis of Alzheimer disease by excising the hydrophobic, aggregation-prone amyloid beta-peptide from the beta-amyloid precursor protein. A central unresolved question is how its many substrates bind and enter the gamma-secretase complex. Here, we provide evidence that both the beta-amyloid precursor protein holoprotein and its C-terminal fragments, the immediate substrates of gamma-secretase, can associate with Aph-1 at overexpressed as well as endogenous protein levels. This association was observed using bi-directional co-immunoprecipitation in multiple systems and detergent conditions, and an beta-amyloid precursor protein-Aph-1 complex was specifically isolated following in situ cross-linking in living cells. In addition, another endogenous canonical gamma-substrate, Jagged, showed association of both its full-length and C-terminal fragment forms with Aph-1. We were also able to demonstrate that this interaction with substrates was conserved across the multiple isoforms of Aph-1 (beta, alphaS, and alphaL), as they were all able to bind beta-amyloid precursor protein with similar affinity. Finally, two highly conserved intramembrane histidines (His-171 and His-197) within Aph-1, which were recently shown to be important for gamma-secretase activity, are required for efficient binding of substrates. Taken together, our data suggest a dominant role for Aph-1 in interacting with gamma-secretase substrates prior to their processing by the proteolytic complex.
+20145246	0	5	Aph-1	Gene	51107
+20145246	176	185	nicastrin	Gene	23385
+20145246	187	192	Aph-1	Gene	51107
+20145246	198	203	Pen-2	Gene	55851
+20145246	459	489	beta-amyloid precursor protein	Gene	351
+20145246	632	662	beta-amyloid precursor protein	Gene	351
+20145246	769	774	Aph-1	Gene	51107
+20145246	1222	1227	Aph-1	Gene	51107
+20145246	1346	1351	Aph-1	Gene	51107
+20145246	1410	1440	beta-amyloid precursor protein	Gene	351
+20145246	1548	1553	Aph-1	Gene	51107
+20145246	1730	1735	Aph-1	Gene	51107
+
+20177054|t|Identification of functionally segregated sarcoplasmic reticulum calcium stores in pulmonary arterial smooth muscle.
+20177054|a|In pulmonary arterial smooth muscle, Ca(2+) release from the sarcoplasmic reticulum (SR) via ryanodine receptors (RyRs) may induce constriction and dilation in a manner that is not mutually exclusive. We show here that the targeting of different sarcoplasmic/endoplasmic reticulum Ca(2+)-ATPases (SERCA) and RyR subtypes to discrete SR regions explains this paradox. Western blots identified protein bands for SERCA2a and SERCA2b, whereas immunofluorescence labeling of isolated pulmonary arterial smooth muscle cells revealed striking differences in the spatial distribution of SERCA2a and SERCA2b and RyR1, RyR2, and RyR3, respectively. Almost all SERCA2a and RyR3 labeling was restricted to a region within 1.5 microm of the nucleus. In marked contrast, SERCA2b labeling was primarily found within 1.5 microm of the plasma membrane, where labeling for RyR1 was maximal. The majority of labeling for RyR2 lay in between these two regions of the cell. Application of the vasoconstrictor endothelin-1 induced global Ca(2+) waves in pulmonary arterial smooth muscle cells, which were markedly attenuated upon depletion of SR Ca(2+) stores by preincubation of cells with the SERCA inhibitor thapsigargin but remained unaffected after preincubation of cells with a second SERCA antagonist, cyclopiazonic acid. We conclude that functionally segregated SR Ca(2+) stores exist within pulmonary arterial smooth muscle cells. One sits proximal to the plasma membrane, receives Ca(2+) via SERCA2b, and likely releases Ca(2+) via RyR1 to mediate vasodilation. The other is located centrally, receives Ca(2+) via SERCA2a, and likely releases Ca(2+) via RyR3 and RyR2 to initiate vasoconstriction.
+20177054	425	428	RyR	Gene	6261
+20177054	720	724	RyR1	Gene	6261
+20177054	726	730	RyR2	Gene	6262
+20177054	736	740	RyR3	Gene	6263
+20177054	779	783	RyR3	Gene	6263
+20177054	972	976	RyR1	Gene	6261
+20177054	1019	1023	RyR2	Gene	6262
+20177054	1105	1117	endothelin-1	Gene	1906
+20177054	1637	1641	RyR1	Gene	6261
+20177054	1759	1763	RyR3	Gene	6263
+20177054	1768	1772	RyR2	Gene	6262
+
+20189985|t|Regulation of inositol 1,4,5-trisphosphate receptors by cAMP independent of cAMP-dependent protein kinase.
+20189985|a|In HEK cells stably expressing type 1 receptors for parathyroid hormone (PTH), PTH causes a sensitization of inositol 1,4,5-trisphosphate receptors (IP(3)R) to IP(3) that is entirely mediated by cAMP and requires cAMP to pass directly from type 6 adenylyl cyclase (AC6) to IP(3)R2. Using DT40 cells expressing single subtypes of mammalian IP(3)R, we demonstrate that high concentrations of cAMP similarly sensitize all IP(3)R isoforms to IP(3) by a mechanism that does not require cAMP-dependent protein kinase (PKA). IP(3) binding to IP(3)R2 is unaffected by cAMP, and sensitization is not mediated by the site through which ATP potentiates responses to IP(3). In single channel recordings from excised nuclear patches of cells expressing IP(3)R2, cAMP alone had no effect, but it increased the open probability of IP(3)R2 activated by a submaximal concentration of IP(3) alone or in combination with a maximally effective concentration of ATP. These results establish that cAMP itself increases the sensitivity of all IP(3)R subtypes to IP(3). For IP(3)R2, this sensitization results from cAMP binding to a novel site that increases the efficacy of IP(3). Using stably expressed short hairpin RNA to reduce expression of the G-protein, G alpha(s), we demonstrate that attenuation of AC activity by loss of G alpha(s) more substantially reduces sensitization of IP(3)R by PTH than does comparable direct inhibition of AC. This suggests that G alpha(s) may also specifically associate with each AC x IP(3)R complex. We conclude that all three subtypes of IP(3)R are regulated by cAMP independent of PKA. In HEK cells, where IP(3)R2 selectively associates with AC6, G alpha(s) also associates with the AC x IP(3)R signaling junction.
+20189985	159	178	parathyroid hormone	Gene	5741
+20189985	180	183	PTH	Gene	5741
+20189985	186	189	PTH	Gene	5741
+20189985	256	262	IP(3)R	Gene	3710
+20189985	372	375	AC6	Gene	112
+20189985	380	387	IP(3)R2	Gene	3709
+20189985	446	452	IP(3)R	Gene	3710
+20189985	526	532	IP(3)R	Gene	3710
+20189985	642	649	IP(3)R2	Gene	3709
+20189985	847	854	IP(3)R2	Gene	3709
+20189985	923	930	IP(3)R2	Gene	3709
+20189985	1127	1133	IP(3)R	Gene	3710
+20189985	1157	1164	IP(3)R2	Gene	3709
+20189985	1345	1352	G alpha	Gene	8802
+20189985	1415	1422	G alpha	Gene	8802
+20189985	1470	1476	IP(3)R	Gene	3710
+20189985	1480	1483	PTH	Gene	5741
+20189985	1549	1556	G alpha	Gene	8802
+20189985	1607	1613	IP(3)R	Gene	3710
+20189985	1662	1668	IP(3)R	Gene	3710
+20189985	1731	1738	IP(3)R2	Gene	3709
+20189985	1767	1770	AC6	Gene	112
+20189985	1772	1779	G alpha	Gene	8802
+20189985	1813	1819	IP(3)R	Gene	3710
+
+20410303|t|AKAP79/150 interacts with AC8 and regulates Ca2+-dependent cAMP synthesis in pancreatic and neuronal systems.
+20410303|a|Protein kinase A anchoring proteins (AKAPs) provide the backbone for targeted multimolecular signaling complexes that serve to localize the activities of cAMP. Evidence is accumulating of direct associations between AKAPs and specific adenylyl cyclase (AC) isoforms to facilitate the actions of protein kinase A on cAMP production. It happens that some of the AC isoforms (AC1 and AC5/6) that bind specific AKAPs are regulated by submicromolar shifts in intracellular Ca(2+). However, whether AKAPs play a role in the control of AC activity by Ca(2+) is unknown. Using a combination of co-immunoprecipitation and high resolution live cell imaging techniques, we reveal an association of the Ca(2+)-stimulable AC8 with AKAP79/150 that limits the sensitivity of AC8 to intracellular Ca(2+) events. This functional interaction between AKAP79/150 and AC8 was observed in HEK293 cells overexpressing the two signaling molecules. Similar findings were made in pancreatic insulin-secreting cells and cultured hippocampal neurons that endogenously express AKAP79/150 and AC8, which suggests important physiological implications for this protein-protein interaction with respect to Ca(2+)-stimulated cAMP production.
+20410303	0	6	AKAP79	Gene	9495
+20410303	26	29	AC8	Gene	114
+20410303	483	486	AC1	Gene	107
+20410303	491	494	AC5	Gene	111
+20410303	819	822	AC8	Gene	114
+20410303	828	834	AKAP79	Gene	9495
+20410303	870	873	AC8	Gene	114
+20410303	942	948	AKAP79	Gene	9495
+20410303	957	960	AC8	Gene	114
+20410303	1158	1164	AKAP79	Gene	9495
+20410303	1173	1176	AC8	Gene	114
+
+20460380|t|Skeletal muscle-specific calpain is an intracellular Na+-dependent protease.
+20460380|a|Because intracellular [Na(+)] is kept low by Na(+)/K(+)-ATPase, Na(+) dependence is generally considered a property of extracellular enzymes. However, we found that p94/calpain 3, a skeletal-muscle-specific member of the Ca(2+)-activated intracellular "modulator proteases" that is responsible for a limb-girdle muscular dystrophy ("calpainopathy"), underwent Na(+)-dependent, but not Cs(+)-dependent, autolysis in the absence of Ca(2+). Furthermore, Na(+) and Ca(2+) complementarily activated autolysis of p94 at physiological concentrations. By blocking Na(+)/K(+)-ATPase, we confirmed intracellular autolysis of p94 in cultured cells. This was further confirmed using inactive p94:C129S knock-in (p94CS-KI) mice as negative controls. Mutagenesis studies showed that much of the p94 molecule contributed to its Na(+)/Ca(2+)-dependent autolysis, which is consistent with the scattered location of calpainopathy-associated mutations, and that a conserved Ca(2+)-binding sequence in the protease acted as a Na(+) sensor. Proteomic analyses using Cs(+)/Mg(2+) and p94CS-KI mice as negative controls revealed that Na(+) and Ca(2+) direct p94 to proteolyze different substrates. We propose three roles for Na(+) dependence of p94; 1) to increase sensitivity of p94 to changes in physiological [Ca(2+)], 2) to regulate substrate specificity of p94, and 3) to regulate contribution of p94 as a structural component in muscle cells. Finally, this is the first example of an intracellular Na(+)-dependent enzyme.
+20460380	242	245	p94	Gene	12335
+20460380	584	587	p94	Gene	12335
+20460380	692	695	p94	Gene	12335
+20460380	757	760	p94	Gene	12335
+20460380	858	861	p94	Gene	12335
+20460380	1212	1215	p94	Gene	12335
+20460380	1299	1302	p94	Gene	12335
+20460380	1334	1337	p94	Gene	12335
+20460380	1416	1419	p94	Gene	12335
+20460380	1456	1459	p94	Gene	12335
+
+20472934|t|Serine 34 phosphorylation of rho guanine dissociation inhibitor (RhoGDIalpha) links signaling from conventional protein kinase C to RhoGTPase in cell adhesion.
+20472934|a|Conventional protein kinase C (PKC) isoforms are essential serine/threonine kinases regulating many signaling networks. At cell adhesion sites, PKCalpha can impact the actin cytoskeleton through its influence on RhoGTPases, but the intermediate steps are not well known. One important regulator of RhoGTPase function is the multifunctional guanine nucleotide dissociation inhibitor RhoGDIalpha that sequesters several related RhoGTPases in an inactive form, but it may also target them through interactions with actin-associated proteins. Here, it is demonstrated that conventional PKC phosphorylates RhoGDIalpha on serine 34, resulting in a specific decrease in affinity for RhoA but not Rac1 or Cdc42. The mechanism of RhoGDIalpha phosphorylation is distinct, requiring the kinase and phosphatidylinositol 4,5-bisphosphate, consistent with recent evidence that the inositide can activate, localize, and orient PKCalpha in membranes. Phosphospecific antibodies reveal endogenous phosphorylation in several cell types that is sensitive to adhesion events triggered, for example, by hepatocyte growth factor. Phosphorylation is also sensitive to PKC inhibition. Together with fluorescence resonance energy transfer microscopy sensing GTP-RhoA levels, the data reveal a common pathway in cell adhesion linking two essential mediators, conventional PKC and RhoA.
+20472934	191	194	PKC	Gene	5578
+20472934	304	312	PKCalpha	Gene	5578
+20472934	742	745	PKC	Gene	5578
+20472934	836	840	RhoA	Gene	387
+20472934	849	853	Rac1	Gene	5879
+20472934	857	862	Cdc42	Gene	998
+20472934	1072	1080	PKCalpha	Gene	5578
+20472934	1242	1266	hepatocyte growth factor	Gene	3082
+20472934	1305	1308	PKC	Gene	5578
+20472934	1397	1401	RhoA	Gene	387
+20472934	1506	1509	PKC	Gene	5578
+20472934	1514	1518	RhoA	Gene	387
+
+21599988|t|Deficiency of maize starch-branching enzyme I results in altered starch fine structure, decreased digestibility and reduced coleoptile growth during germination.
+21599988|a|BACKGROUND: Two distinct starch branching enzyme (SBE) isoforms predate the divergence of monocots and dicots and have been conserved in plants since then. This strongly suggests that both SBEI and SBEII provide unique selective advantages to plants. However, no phenotype for the SBEI mutation, sbe1a, had been previously observed. To explore this incongruity the objective of the present work was to characterize functional and molecular phenotypes of both sbe1a and wild-type (Wt) in the W64A maize inbred line. RESULTS: Endosperm starch granules from the sbe1a mutant were more resistant to digestion by pancreatic alpha-amylase, and the sbe1a mutant starch had an altered branching pattern for amylopectin and amylose. When kernels were germinated, the sbe1a mutant was associated with shorter coleoptile length and higher residual starch content, suggesting that less efficient starch utilization may have impaired growth during germination. CONCLUSIONS: The present report documents for the first time a molecular phenotype due to the absence of SBEI, and suggests strongly that it is associated with altered physiological function of the starch in vivo. We believe that these results provide a plausible rationale for the conservation of SBEI in plants in both monocots and dicots, as greater seedling vigor would provide an important survival advantage when resources are limited.
+
+21730358|t|ZCN8 encodes a potential orthologue of Arabidopsis FT florigen that integrates both endogenous and photoperiod flowering signals in maize.
+21730358|a|Higher plants use multiple perceptive measures to coordinate flowering time with environmental and endogenous cues. Physiological studies show that florigen is a mobile factor that transmits floral inductive signals from the leaf to the shoot apex. Arabidopsis FT protein is widely regarded as the archetype florigen found in diverse plant species, particularly in plants that use inductive photoperiods to flower. Recently, a large family of FT homologues in maize, the Zea CENTRORADIALIS (ZCN) genes, was described, suggesting that maize also contains FT-related proteins that act as a florigen. The product of one member of this large family, ZCN8, has several attributes that make it a good candidate as a maize florigen. Mechanisms underlying the floral transition in maize are less well understood than those of other species, partly because flowering in temperate maize is dependent largely on endogenous signals. The maize indeterminate1 (id1) gene is an important regulator of maize autonomous flowering that acts in leaves to mediate the transmission or production of florigenic signals. This study finds that id1 acts upstream of ZCN8 to control its expression, suggesting a possible new link to flowering in day-neutral maize. Moreover, in teosinte, a tropical progenitor of maize that requires short-day photoperiods to induce flowering, ZCN8 is highly up-regulated in leaves under inductive photoperiods. Finally, vascular-specific expression of ZCN8 in Arabidopsis complements the ft-1 mutation, demonstrating that leaf-specific expression of ZCN8 can induce flowering. These results suggest that ZCN8 may encode a florigen that integrates both endogenous and environmental signals in maize.
+21730358	0	4	ZCN8	Gene	100127519
+21730358	785	789	ZCN8	Gene	100127519
+21730358	1070	1084	indeterminate1	Gene	541693
+21730358	1086	1089	id1	Gene	541693
+21730358	1259	1262	id1	Gene	541693
+21730358	1280	1284	ZCN8	Gene	100127519
+21730358	1490	1494	ZCN8	Gene	100127519
+21730358	1599	1603	ZCN8	Gene	100127519
+21730358	1635	1639	ft-1	Gene	814851
+21730358	1697	1701	ZCN8	Gene	100127519
+21730358	1751	1755	ZCN8	Gene	100127519
+
+21778179|t|Ligand-binding properties and subcellular localization of maize cytokinin receptors.
+21778179|a|The ligand-binding properties of the maize (Zea mays L.) cytokinin receptors ZmHK1, ZmHK2, and ZmHK3a have been characterized using cytokinin binding assays with living cells or membrane fractions. According to affinity measurements, ZmHK1 preferred N(6)-(Delta(2)-isopentenyl)adenine (iP) and had nearly equal affinities to trans-zeatin (tZ) and cis-zeatin (cZ). ZmHK2 preferred tZ and iP to cZ, while ZmHK3a preferred iP. Only ZmHK2 had a high affinity to dihydrozeatin (DZ). Analysis of subcellular fractions from leaves and roots of maize seedlings revealed specific binding of tZ in the microsome fraction but not in chloroplasts or mitochondria. In competitive binding assays with microsomes, tZ and iP were potent competitors of [(3)H]tZ while cZ demonstrated significantly lower affinity; adenine was almost ineffective. The binding specificities of microsomes from leaf and root cells for cytokinins were consistent with the expression pattern of the ZmHKs and our results on individual receptor properties. Aqueous two-phase partitioning and sucrose density-gradient centrifugation followed by immunological detection with monoclonal antibody showed that ZmHK1 was associated with the endoplasmic reticulum (ER). This was corroborated by observations of the subcellular localization of ZmHK1 fusions with green fluorescent protein in maize protoplasts. All these data strongly suggest that at least a part of cytokinin perception occurs in the ER.
+21778179	162	167	ZmHK1	Gene	541634
+21778179	169	174	ZmHK2	Gene	541641
+21778179	180	186	ZmHK3a	Gene	541642
+21778179	319	324	ZmHK1	Gene	541634
+21778179	449	454	ZmHK2	Gene	541641
+21778179	488	494	ZmHK3a	Gene	541642
+21778179	514	519	ZmHK2	Gene	541641
+21778179	1250	1255	ZmHK1	Gene	541634
+21778179	1381	1386	ZmHK1	Gene	541634
+
+21867558|t|Global transcriptome analysis of two ameiotic1 alleles in maize anthers: defining steps in meiotic entry and progression through prophase I.
+21867558|a|BACKGROUND: Developmental cues to start meiosis occur late in plants. Ameiotic1 (Am1) encodes a plant-specific nuclear protein (AM1) required for meiotic entry and progression through early prophase I. Pollen mother cells (PMCs) remain mitotic in most am1 mutants including am1-489, while am1-praI permits meiotic entry but PMCs arrest at the leptotene/zygotene (L/Z) transition, defining the roles of AM1 protein in two distinct steps of meiosis. To gain more insights into the roles of AM1 in the transcriptional pre-meiotic and meiotic programs, we report here an in depth analysis of gene expression alterations in carefully staged anthers at 1 mm (meiotic entry) and 1.5 mm (L/Z) caused by each of these am1 alleles. RESULTS: 1.0 mm and 1.5 mm anthers of am1-489 and am1-praI were profiled in comparison to fertile siblings on Agilent  4 x 44 K microarrays. Both am1-489 and am1-praI anthers are cytologically normal at 1.0 mm and show moderate transcriptome alterations. At the 1.5-mm stage both mutants are aberrant cytologically, and show more drastic transcriptome changes. There are substantially more absolute On/Off and twice as many differentially expressed genes (sterile versus fertile) in am1-489 than in am1-praI. At 1.5 mm a total of 4,418 genes are up- or down-regulated in either am1-489 or am1-praI anthers. These are predominantly stage-specific transcripts. Many putative meiosis-related genes were found among them including a small subset of allele-specific, mis-regulated genes specific to the PMCs. Nearly 60% of transcriptome changes in the set of transcripts mis-regulated in both mutants (N = 530) are enriched in PMCs, and only 1% are enriched in the tapetal cell transcriptome. All array data reported herein will be deposited and accessible at MaizeGDB http://www.maizegdb.org/. CONCLUSIONS: Our analysis of anther transcriptome modulations by two distinct am1 alleles, am1-489 and am1-praI, redefines the role of AM1 as a modulator of expression of a subset of meiotic genes, important for meiotic progression and provided stage-specific insights into the genetic networks associated with meiotic entry and early prophase I progression.
+21867558	37	46	ameiotic1	Gene	100271891
+21867558	211	220	Ameiotic1	Gene	100271891
+
+21911368|t|A conserved lysine residue of plant Whirly proteins is necessary for higher order protein assembly and protection against DNA damage.
+21911368|a|All organisms have evolved specialized DNA repair mechanisms in order to protect their genome against detrimental lesions such as DNA double-strand breaks. In plant organelles, these damages are repaired either through recombination or through a microhomology-mediated break-induced replication pathway. Whirly proteins are modulators of this second pathway in both chloroplasts and mitochondria. In this precise pathway, tetrameric Whirly proteins are believed to bind single-stranded DNA and prevent spurious annealing of resected DNA molecules with other regions in the genome. In this study, we add a new layer of complexity to this model by showing through atomic force microscopy that tetramers of the potato Whirly protein WHY2 further assemble into hexamers of tetramers, or 24-mers, upon binding long DNA molecules. This process depends on tetramer-tetramer interactions mediated by K67, a highly conserved residue among plant Whirly proteins. Mutation of this residue abolishes the formation of 24-mers without affecting the protein structure or the binding to short DNA molecules. Importantly, we show that an Arabidopsis Whirly protein mutated for this lysine is unable to rescue the sensitivity of a Whirly-less mutant plant to a DNA double-strand break inducing agent.
+21911368	864	868	WHY2	Gene	102577630
+
+21931818|t|An 11-bp insertion in Zea mays fatb reduces the palmitic acid content of fatty acids in maize grain.
+21931818|a|The ratio of saturated to unsaturated fatty acids in maize kernels strongly impacts human and livestock health, but is a complex trait that is difficult to select based on phenotype. Map-based cloning of quantitative trait loci (QTL) is a powerful but time-consuming method for the dissection of complex traits. Here, we combine linkage and association analyses to fine map QTL-Pal9, a QTL influencing levels of palmitic acid, an important class of saturated fatty acid. QTL-Pal9 was mapped to a 90-kb region, in which we identified a candidate gene, Zea mays fatb (Zmfatb), which encodes acyl-ACP thioesterase. An 11-bp insertion in the last exon of Zmfatb decreases palmitic acid content and concentration, leading to an optimization of the ratio of saturated to unsaturated fatty acids while having no effect on total oil content. We used three-dimensional structure analysis to explain the functional mechanism of the ZmFATB protein and confirmed the proposed model in vitro and in vivo. We measured the genetic effect of the functional site in 15 different genetic backgrounds and found a maximum change of 4.57 mg/g palmitic acid content, which accounts for ~20-60% of the variation in the ratio of saturated to unsaturated fatty acids. A PCR-based marker for QTL-Pal9 was developed for marker-assisted selection of nutritionally healthier maize lines. The method presented here provides a new, efficient way to clone QTL, and the cloned palmitic acid QTL sheds lights on the genetic mechanism of oil biosynthesis and targeted maize molecular breeding.
+
+21987638|t|The Protein Phosphatase 2A regulatory subunit Twins stabilizes Plk4 to induce centriole amplification.
+21987638|a|Centriole duplication is a tightly regulated process that must occur only once per cell cycle; otherwise, supernumerary centrioles can induce aneuploidy and tumorigenesis. Plk4 (Polo-like kinase 4) activity initiates centriole duplication and is regulated by ubiquitin-mediated proteolysis. Throughout interphase, Plk4 autophosphorylation triggers its degradation, thus preventing centriole amplification. However, Plk4 activity is required during mitosis for proper centriole duplication, but the mechanism stabilizing mitotic Plk4 is unknown. In this paper, we show that PP2A (Protein Phosphatase 2A(Twins)) counteracts Plk4 autophosphorylation, thus stabilizing Plk4 and promoting centriole duplication. Like Plk4, the protein level of PP2A's regulatory subunit, Twins (Tws), peaks during mitosis and is required for centriole duplication. However, untimely Tws expression stabilizes Plk4 inappropriately, inducing centriole amplification. Paradoxically, expression of tumor-promoting simian virus 40 small tumor antigen (ST), a reported PP2A inhibitor, promotes centrosome amplification by an unknown mechanism. We demonstrate that ST actually mimics Tws function in stabilizing Plk4 and inducing centriole amplification.
+21987638	63	67	Plk4	Gene	10733
+21987638	275	279	Plk4	Gene	10733
+21987638	281	299	Polo-like kinase 4	Gene	10733
+21987638	417	421	Plk4	Gene	10733
+21987638	518	522	Plk4	Gene	10733
+21987638	631	635	Plk4	Gene	10733
+21987638	676	680	PP2A	Gene	5524
+21987638	725	729	Plk4	Gene	10733
+21987638	768	772	Plk4	Gene	10733
+21987638	815	819	Plk4	Gene	10733
+21987638	842	846	PP2A	Gene	5524
+21987638	990	994	Plk4	Gene	10733
+21987638	1144	1148	PP2A	Gene	5524
+21987638	1286	1290	Plk4	Gene	10733
+
+22016430|t|Expression of the maize ZmGF14-6 gene in rice confers tolerance to drought stress while enhancing susceptibility to pathogen infection.
+22016430|a|14-3-3 proteins are found in all eukaryotes where they act as regulators of diverse signalling pathways associated with a wide range of biological processes. In this study the functional characterization of the ZmGF14-6 gene encoding a maize 14-3-3 protein is reported. Gene expression analyses indicated that ZmGF14-6 is up-regulated by fungal infection and salt treatment in maize plants, whereas its expression is down-regulated by drought stress. It is reported that rice plants constitutively expressing ZmGF14-6 displayed enhanced tolerance to drought stress which was accompanied by a stronger induction of drought-associated rice genes. However, rice plants expressing ZmGF14-6 either in a constitutive or under a pathogen-inducible regime showed a higher susceptibility to infection by the fungal pathogens Fusarium verticillioides and Magnaporthe oryzae. Under infection conditions, a lower intensity in the expression of defence-related genes occurred in ZmGF14-6 rice plants. These findings support that ZmGF14-6 positively regulates drought tolerance in transgenic rice while negatively modulating the plant defence response to pathogen infection. Transient expression assays of fluorescently labelled ZmGF14-6 protein in onion epidermal cells revealed a widespread distribution of ZmGF14-6 in the cytoplasm and nucleus. Additionally, colocalization experiments of fluorescently labelled ZmGF14-6 with organelle markers, in combination with cell labelling with the endocytic tracer FM4-64, revealed a subcellular localization of ZmGF14-6 in the early endosomes. Taken together, these results improve our understanding of the role of ZmGF14-6 in stress signalling pathways, while indicating that ZmGF14-6 inversely regulates the plant response to biotic and abiotic stresses.
+22016430	24	32	ZmGF14-6	Gene	542291
+22016430	446	454	ZmGF14-6	Gene	542291
+22016430	645	653	ZmGF14-6	Gene	542291
+22016430	813	821	ZmGF14-6	Gene	542291
+22016430	1102	1110	ZmGF14-6	Gene	542291
+22016430	1152	1160	ZmGF14-6	Gene	542291
+22016430	1351	1359	ZmGF14-6	Gene	542291
+22016430	1431	1439	ZmGF14-6	Gene	542291
+22016430	1537	1545	ZmGF14-6	Gene	542291
+22016430	1678	1686	ZmGF14-6	Gene	542291
+22016430	1782	1790	ZmGF14-6	Gene	542291
+22016430	1844	1852	ZmGF14-6	Gene	542291
+
+22022278|t|Three structure-selective endonucleases are essential in the absence of BLM helicase in Drosophila.
+22022278|a|DNA repair mechanisms in mitotically proliferating cells avoid generating crossovers, which can contribute to genome instability. Most models for the production of crossovers involve an intermediate with one or more four-stranded Holliday junctions (HJs), which are resolved into duplex molecules through cleavage by specialized endonucleases. In vitro studies have implicated three nuclear enzymes in HJ resolution: MUS81-EME1/Mms4, GEN1/Yen1, and SLX4-SLX1. The Bloom syndrome helicase, BLM, plays key roles in preventing mitotic crossover, either by blocking the formation of HJ intermediates or by removing HJs without cleavage. Saccharomyces cerevisiae mutants that lack Sgs1 (the BLM ortholog) and either Mus81-Mms4 or Slx4-Slx1 are inviable, but mutants that lack Sgs1 and Yen1 are viable. The current view is that Yen1 serves primarily as a backup to Mus81-Mms4. Previous studies with Drosophila melanogaster showed that, as in yeast, loss of both DmBLM and MUS81 or MUS312 (the ortholog of SLX4) is lethal. We have now recovered and analyzed mutations in Drosophila Gen. As in yeast, there is some redundancy between Gen and mus81; however, in contrast to the case in yeast, GEN plays a more predominant role in responding to DNA damage than MUS81-MMS4. Furthermore, loss of DmBLM and GEN leads to lethality early in development. We present a comparison of phenotypes occurring in double mutants that lack DmBLM and either MUS81, GEN, or MUS312, including chromosome instability and deficiencies in cell proliferation. Our studies of synthetic lethality provide insights into the multiple functions of DmBLM and how various endonucleases may function when DmBLM is absent.
+22022278	517	522	MUS81	Gene	851994
+22022278	528	532	Mms4	Gene	852395
+22022278	539	543	Yen1	Gene	856764
+22022278	549	553	SLX4	Gene	850826
+22022278	554	558	SLX1	Gene	852529
+22022278	776	780	Sgs1	Gene	855228
+22022278	811	816	Mus81	Gene	851994
+22022278	817	821	Mms4	Gene	852395
+22022278	825	829	Slx4	Gene	850826
+22022278	830	834	Slx1	Gene	852529
+22022278	871	875	Sgs1	Gene	855228
+22022278	880	884	Yen1	Gene	856764
+22022278	922	926	Yen1	Gene	856764
+22022278	959	964	Mus81	Gene	851994
+22022278	965	969	Mms4	Gene	852395
+22022278	1066	1071	MUS81	Gene	851994
+22022278	1099	1103	SLX4	Gene	850826
+22022278	1234	1239	mus81	Gene	851994
+22022278	1351	1356	MUS81	Gene	851994
+22022278	1357	1361	MMS4	Gene	852395
+22022278	1532	1537	MUS81	Gene	851994
+
+22024168|t|Canoe binds RanGTP to promote Pins(TPR)/Mud-mediated spindle orientation.
+22024168|a|Regulated spindle orientation maintains epithelial tissue integrity and stem cell asymmetric cell division. In Drosophila melanogaster neural stem cells (neuroblasts), the scaffolding protein Canoe (Afadin/Af-6 in mammals) regulates spindle orientation, but its protein interaction partners and mechanism of action are unknown. In this paper, we use our recently developed induced cell polarity system to dissect the molecular mechanism of Canoe-mediated spindle orientation. We show that a previously uncharacterized portion of Canoe directly binds the Partner of Inscuteable (Pins) tetratricopeptide repeat (TPR) domain. The Canoe-Pins(TPR) interaction recruits Canoe to the cell cortex and is required for activation of the Pins(TPR)-Mud (nuclear mitotic apparatus in mammals) spindle orientation pathway. We show that the Canoe Ras-association (RA) domains directly bind RanGTP and that both the Canoe(RA) domains and RanGTP are required to recruit Mud to the cortex and activate the Pins/Mud/dynein spindle orientation pathway.
+22024168	30	34	Pins	Gene	53569
+22024168	273	279	Afadin	Gene	40620
+22024168	280	284	Af-6	Gene	40620
+22024168	628	650	Partner of Inscuteable	Gene	53569
+22024168	652	656	Pins	Gene	53569
+22024168	707	711	Pins	Gene	53569
+22024168	801	805	Pins	Gene	53569
+22024168	1062	1066	Pins	Gene	53569
+
+22105348|t|Crumbs regulates rhodopsin transport by interacting with and stabilizing myosin V.
+22105348|a|The evolutionarily conserved Crumbs (Crb) complex is crucial for photoreceptor morphogenesis and homeostasis. Loss of Crb results in light-dependent retinal degeneration, which is prevented by feeding mutant flies carotenoid-deficient medium. This suggests a defect in rhodopsin 1 (Rh1) processing, transport, and/or signaling, causing degeneration; however, the molecular mechanism of this remained elusive. In this paper, we show that myosin V (MyoV) coimmunoprecipitated with the Crb complex and that loss of crb led to severe reduction in MyoV levels, which could be rescued by proteasomal inhibition. Loss of MyoV in crb mutant photoreceptors was accompanied by defective transport of the MyoV cargo Rh1 to the light-sensing organelle, the rhabdomere. This resulted in an age-dependent accumulation of Rh1 in the photoreceptor cell (PRC) body, a well-documented trigger of degeneration. We conclude that Crb protects against degeneration by interacting with and stabilizing MyoV, thereby ensuring correct Rh1 trafficking. Our data provide, for the first time, a molecular mechanism for the light-dependent degeneration of PRCs observed in crb mutant retinas.
+22105348	17	26	rhodopsin	Gene	6010
+22105348	73	81	myosin V	Gene	4644
+22105348	520	528	myosin V	Gene	4644
+22105348	530	534	MyoV	Gene	4644
+22105348	626	630	MyoV	Gene	4644
+22105348	697	701	MyoV	Gene	4644
+22105348	777	781	MyoV	Gene	4644
+22105348	1062	1066	MyoV	Gene	4644
+
+22156165|t|Protein-mediated protection as the predominant mechanism for defining processed mRNA termini in land plant chloroplasts.
+22156165|a|Most chloroplast mRNAs are processed from larger precursors. Several mechanisms have been proposed to mediate these processing events, including site-specific cleavage and the stalling of exonucleases by RNA structures. A protein barrier mechanism was proposed based on analysis of the pentatricopeptide repeat (PPR) protein PPR10: PPR10 binds two intercistronic regions and impedes 5'- and 3'-exonucleases, resulting in processed RNAs with PPR10 bound at the 5'- or 3'-end. In this study, we provide evidence that protein barriers are the predominant means for defining processed mRNA termini in chloroplasts. First, we map additional RNA termini whose arrangement suggests biogenesis via a PPR10-like mechanism. Second, we show that the PPR protein HCF152 binds to the immediate 5'- or 3'-termini of transcripts that require HCF152 for their accumulation, providing evidence that HCF152 defines RNA termini by blocking exonucleases. Finally, we build on the observation that the PPR10 and HCF152 binding sites accumulate as small chloroplast RNAs to infer binding sites of other PPR proteins. We show that most processed mRNA termini are represented by small RNAs whose sequences are highly conserved. We suggest that each such small RNA is the footprint of a PPR-like protein that protects the adjacent RNA from degradation.
+
+22253607|t|Genetic evidence for an indispensable role of somatic embryogenesis receptor kinases in brassinosteroid signaling.
+22253607|a|The Arabidopsis thaliana somatic embryogenesis receptor kinases (SERKs) consist of five members, SERK1 to SERK5, of the leucine-rich repeat receptor-like kinase subfamily II (LRR-RLK II). SERK3 was named BRI1-Associated Receptor Kinase 1 (BAK1) due to its direct interaction with the brassinosteroid (BR) receptor BRI1 in vivo, while SERK4 has also been designated as BAK1-Like 1 (BKK1) for its functionally redundant role with BAK1. Here we provide genetic and biochemical evidence to demonstrate that SERKs are absolutely required for early steps in BR signaling. Overexpression of four of the five SERKs-SERK1, SERK2, SERK3/BAK1, and SERK4/BKK1-suppressed the phenotypes of an intermediate BRI1 mutant, bri1-5. Overexpression of the kinase-dead versions of these four genes in the bri1-5 background, on the other hand, resulted in typical dominant negative phenotypes, resembling those of null BRI1 mutants. We isolated and generated single, double, triple, and quadruple mutants and analyzed their phenotypes in detail. While the quadruple mutant is embryo-lethal, the serk1 bak1 bkk1 triple null mutant exhibits an extreme de-etiolated phenotype similar to a null bri1 mutant. While overexpression of BRI1 can drastically increase hypocotyl growth of wild-type plants, overexpression of BRI1 does not alter hypocotyl growth of the serk1 bak1 bkk1 triple mutant. Biochemical analysis indicated that the phosphorylation level of BRI1 in serk1 bak1 bkk1 is incapable of sensing exogenously applied BR. As a result, the unphosphorylated level of BES1 has lost its sensitivity to the BR treatment in the triple mutant, indicating that the BR signaling pathway has been completely abolished in the triple mutant. These data clearly demonstrate that SERKs are essential to the early events of BR signaling.
+22253607	212	217	SERK1	Gene	843513
+22253607	221	226	SERK5	Gene	815863
+22253607	303	308	SERK3	Gene	829480
+22253607	319	352	BRI1-Associated Receptor Kinase 1	Gene	829480
+22253607	354	358	BAK1	Gene	829480
+22253607	449	454	SERK4	Gene	815862
+22253607	483	494	BAK1-Like 1	Gene	815862
+22253607	496	500	BKK1	Gene	815862
+22253607	543	547	BAK1	Gene	829480
+22253607	722	727	SERK1	Gene	843513
+22253607	729	734	SERK2	Gene	840320
+22253607	736	741	SERK3	Gene	829480
+22253607	742	746	BAK1	Gene	829480
+22253607	752	757	SERK4	Gene	815862
+22253607	758	762	BKK1	Gene	815862
+22253607	808	812	BRI1	Gene	830095
+22253607	821	825	bri1	Gene	830095
+22253607	899	903	bri1	Gene	830095
+22253607	1012	1016	BRI1	Gene	830095
+22253607	1188	1193	serk1	Gene	843513
+22253607	1194	1198	bak1	Gene	829480
+22253607	1199	1203	bkk1	Gene	815862
+22253607	1284	1288	bri1	Gene	830095
+22253607	1321	1325	BRI1	Gene	830095
+22253607	1407	1411	BRI1	Gene	830095
+22253607	1451	1456	serk1	Gene	843513
+22253607	1457	1461	bak1	Gene	829480
+22253607	1462	1466	bkk1	Gene	815862
+22253607	1547	1551	BRI1	Gene	830095
+22253607	1555	1560	serk1	Gene	843513
+22253607	1561	1565	bak1	Gene	829480
+22253607	1566	1570	bkk1	Gene	815862
+22253607	1662	1666	BES1	Gene	838518
+
+22291037|t|The small G protein Arl1 directs the trans-Golgi-specific targeting of the Arf1 exchange factors BIG1 and BIG2.
+22291037|a|The small G protein Arf1 regulates Golgi traffic and is activated by two related types of guanine nucleotide exchange factor (GEF). GBF1 acts at the cis-Golgi, whereas BIG1 and its close paralog BIG2 act at the trans-Golgi. Peripheral membrane proteins such as these GEFs are often recruited to membranes by small G proteins, but the basis for specific recruitment of Arf GEFs, and hence Arfs, to Golgi membranes is not understood. In this paper, we report a liposome-based affinity purification method to identify effectors for small G proteins of the Arf family. We validate this with the Drosophila melanogaster Arf1 orthologue (Arf79F) and the related class II Arf (Arf102F), which showed a similar pattern of effector binding. Applying the method to the Arf-like G protein Arl1, we found that it binds directly to Sec71, the Drosophila ortholog of BIG1 and BIG2, via an N-terminal region. We show that in mammalian cells, Arl1 is necessary for Golgi recruitment of BIG1 and BIG2 but not GBF1. Thus, Arl1 acts to direct a trans-Golgi-specific Arf1 GEF, and hence active Arf1, to the trans side of the Golgi.
+22291037	20	24	Arl1	Gene	39745
+22291037	75	79	Arf1	Gene	40506
+22291037	97	101	BIG1	Gene	34785
+22291037	106	110	BIG2	Gene	10564
+22291037	132	136	Arf1	Gene	40506
+22291037	244	248	GBF1	Gene	36337
+22291037	280	284	BIG1	Gene	34785
+22291037	307	311	BIG2	Gene	10564
+22291037	480	483	Arf	Gene	43823
+22291037	665	668	Arf	Gene	43823
+22291037	727	731	Arf1	Gene	40506
+22291037	744	750	Arf79F	Gene	40506
+22291037	777	780	Arf	Gene	43823
+22291037	782	789	Arf102F	Gene	43823
+22291037	890	894	Arl1	Gene	39745
+22291037	931	936	Sec71	Gene	34785
+22291037	965	969	BIG1	Gene	34785
+22291037	974	978	BIG2	Gene	10564
+22291037	1039	1043	Arl1	Gene	400
+22291037	1082	1086	BIG1	Gene	10565
+22291037	1091	1095	BIG2	Gene	10564
+22291037	1104	1108	GBF1	Gene	8729
+22291037	1116	1120	Arl1	Gene	400
+22291037	1159	1167	Arf1 GEF	Gene	36337
+22291037	1186	1190	Arf1	Gene	375
+
+22292043|t|Brd1 gene in maize encodes a brassinosteroid C-6 oxidase.
+22292043|a|The role of brassinosteroids in plant growth and development has been well-characterized in a number of plant species. However, very little is known about the role of brassinosteroids in maize. Map-based cloning of a severe dwarf mutant in maize revealed a nonsense mutation in an ortholog of a brassinosteroid C-6 oxidase, termed brd1, the gene encoding the enzyme that catalyzes the final steps of brassinosteroid synthesis. Homozygous brd1-m1 maize plants have essentially no internode elongation and exhibit no etiolation response when germinated in the dark. These phenotypes could be rescued by exogenous application of brassinolide, confirming the molecular defect in the maize brd1-m1 mutant. The brd1-m1 mutant plants also display alterations in leaf and floral morphology. The meristem is not altered in size but there is evidence for differences in the cellular structure of several tissues. The isolation of a maize mutant defective in brassinosteroid synthesis will provide opportunities for the analysis of the role of brassinosteroids in this important crop system.
+
+22348040|t|Isolation and characterization of maize PMP3 genes involved in salt stress tolerance.
+22348040|a|Plasma membrane protein 3 (PMP3), a class of small hydrophobic polypeptides with high sequence similarity, is responsible for salt, drought, cold, and abscisic acid. These small hydrophobic ploypeptides play important roles in maintenance of ion homeostasis. In this study, eight ZmPMP3 genes were cloned from maize and responsive to salt, drought, cold and abscisic acid. The eight ZmPMP3s were membrane proteins and their sequences in trans-membrane regions were highly conserved. Phylogenetic analysis showed that they were categorized into three groups. All members of group II were responsive to ABA. Functional complementation showed that with the exception of ZmPMP3-6, all were capable of maintaining membrane potential, which in turn allows for regulation of intracellular ion homeostasis. This process was independent of the presence of Ca(2+). Lastly, over-expression of ZmPMP3-1 enhanced growth of transgenic Arabidopsis under salt condition. Through expression analysis of deduced downstream genes in transgenic plants, expression levels of three ion transporter genes and four important antioxidant genes in ROS scavenging system were increased significantly in transgenic plants during salt stress. This tolerance was likely achieved through diminishing oxidative stress due to the possibility of ZmPMP3-1's involvement in regulation of ion homeostasis, and suggests that the modulation of these conserved small hydrophobic polypeptides could be an effective way to improve salt tolerance in plants.
+
+22412948|t|bantam is required for optic lobe development and glial cell proliferation.
+22412948|a|microRNAs (miRNAs) are small, conserved, non-coding RNAs that contribute to the control of many different cellular processes, including cell fate specification and growth control. Drosophila bantam, a conserved miRNA, is involved in several functions, such as stimulating proliferation and inhibiting apoptosis in the wing disc. Here, we reported the detailed expression pattern of bantam in the developing optic lobe, and demonstrated a new, essential role in promoting proliferation of mitotic cells in the optic lobe, including stem cells and differentiated glial cells. Changes in bantam levels autonomously affected glial cell number and distribution, and non-autonomously affected photoreceptor neuron axon projection patterns. Furthermore, we showed that bantam promotes the proliferation of mitotically active glial cells and affects their distribution, largely through down regulation of the T-box transcription factor, optomotor-blind (omb, Flybase, bifid). Expression of omb can rescue the bantam phenotype, and restore the normal glial cell number and proper glial cell positioning in most Drosophila brains. These results suggest that bantam is critical for maintaining the stem cell pools in the outer proliferation center and glial precursor cell regions of the optic lobe, and that its expression in glial cells is crucial for their proliferation and distribution.
+
+22417282|t|ZmbZIP60 mRNA is spliced in maize in response to ER stress.
+22417282|a|BACKGROUND: Adverse environmental conditions produce ER stress and elicit the unfolded protein response (UPR) in plants. Plants are reported to have two "arms" of the ER stress signaling pathway-one arm involving membrane-bound transcription factors and the other involving a membrane-associated RNA splicing factor, IRE1. IRE1 in yeast to mammals recognizes a conserved twin loop structure in the target RNA. RESULTS: A segment of the mRNA encoding ZmbZIP60 in maize can be folded into a twin loop structure, and in response to ER stress this mRNA is spliced, excising a 20b intron. Splicing converts the predicted protein from a membrane-associated transcription factor to one that is targeted to the nucleus. Splicing of ZmbZIP60 can be elicited in maize seedlings by ER stress agents such as dithiothreitol (DTT) or tunicamycin (TM) or by heat treatment. Younger, rather than older seedlings display a more robust splicing response as do younger parts of leaf, along a developmental gradient in a leaf. The molecular signature of an ER stress response in plants includes the upregulation of Binding Protein (BIP) genes. Maize has numerous BIP-like genes, and ER stress was found to upregulate one of these, ZmBIPb. CONCLUSIONS: The splicing of ZmbZIP60 mRNA is an indicator of ER stress in maize seedlings resulting from adverse environmental conditions such as heat stress. ZmbZIP60 mRNA splicing in maize leads predictively to the formation of active bZIP transcription factor targeted to the nucleus to upregulate stress response genes. Among the genes upregulated by ER stress in maize is one of 22 BIP-like genes, ZmBIPb.
+22417282	377	381	IRE1	Gene	856478
+22417282	383	387	IRE1	Gene	856478
+
+22448145|t|Mutations in the mitochondrial methionyl-tRNA synthetase cause a neurodegenerative phenotype in flies and a recessive ataxia (ARSAL) in humans.
+22448145|a|An increasing number of genes required for mitochondrial biogenesis, dynamics, or function have been found to be mutated in metabolic disorders and neurological diseases such as Leigh Syndrome. In a forward genetic screen to identify genes required for neuronal function and survival in Drosophila photoreceptor neurons, we have identified mutations in the mitochondrial methionyl-tRNA synthetase, Aats-met, the homologue of human MARS2. The fly mutants exhibit age-dependent degeneration of photoreceptors, shortened lifespan, and reduced cell proliferation in epithelial tissues. We further observed that these mutants display defects in oxidative phosphorylation, increased Reactive Oxygen Species (ROS), and an upregulated mitochondrial Unfolded Protein Response. With the aid of this knowledge, we identified MARS2 to be mutated in Autosomal Recessive Spastic Ataxia with Leukoencephalopathy (ARSAL) patients. We uncovered complex rearrangements in the MARS2 gene in all ARSAL patients. Analysis of patient cells revealed decreased levels of MARS2 protein and a reduced rate of mitochondrial protein synthesis. Patient cells also exhibited reduced Complex I activity, increased ROS, and a slower cell proliferation rate, similar to Drosophila Aats-met mutants.
+22448145	17	56	mitochondrial methionyl-tRNA synthetase	Gene	41733
+22448145	126	131	ARSAL	Gene	100379201
+22448145	501	540	mitochondrial methionyl-tRNA synthetase	Gene	41733
+22448145	542	550	Aats-met	Gene	41733
+22448145	575	580	MARS2	Gene	92935
+22448145	958	963	MARS2	Gene	92935
+22448145	981	1040	Autosomal Recessive Spastic Ataxia with Leukoencephalopathy	Gene	100379201
+22448145	1042	1047	ARSAL	Gene	100379201
+22448145	1102	1107	MARS2	Gene	92935
+22448145	1120	1125	ARSAL	Gene	100379201
+22448145	1191	1196	MARS2	Gene	92935
+22448145	1392	1400	Aats-met	Gene	41733
+
+22509342|t|Roles of the Drosophila SK channel (dSK) in courtship memory.
+22509342|a|A role for SK channels in synaptic plasticity has been very well-characterized. However, in the absence of simple genetic animal models, their role in behavioral memory remains elusive. Here, we take advantage of Drosophila melanogaster with its single SK gene (dSK) and well-established courtship memory assay to investigate the contribution of this channel to memory. Using two independent dSK alleles, a null mutation and a dominant negative subunit, we show that while dSK negatively regulates the acquisition of short-term memory 30 min after a short training session, it is required for normal long-term memory 24 h after extended training. These findings highlight important functions for dSK in courtship memory and suggest that SK channels can mediate multiple forms of behavioral plasticity.
+22509342	24	26	SK	Gene	45845
+22509342	36	39	dSK	Gene	45845
+22509342	73	75	SK	Gene	45845
+22509342	315	317	SK	Gene	45845
+22509342	324	327	dSK	Gene	45845
+22509342	454	457	dSK	Gene	45845
+22509342	535	538	dSK	Gene	45845
+22509342	758	761	dSK	Gene	45845
+22509342	799	801	SK	Gene	45845
+
+22530061|t|A screen for genes expressed in the olfactory organs of Drosophila melanogaster identifies genes involved in olfactory behaviour.
+22530061|a|BACKGROUND: For insects the sense of smell and associated olfactory-driven behaviours are essential for survival. Insects detect odorants with families of olfactory receptor proteins that are very different to those of mammals, and there are likely to be other unique genes and genetic pathways involved in the function and development of the insect olfactory system. METHODOLOGY/PRINCIPAL FINDINGS: We have performed a genetic screen of a set of 505 Drosophila melanogaster gene trap insertion lines to identify novel genes expressed in the adult olfactory organs. We identified 16 lines with expression in the olfactory organs, many of which exhibited expression of the trapped genes in olfactory receptor neurons. Phenotypic analysis showed that six of the lines have decreased olfactory responses in a behavioural assay, and for one of these we showed that precise excision of the P element reverts the phenotype to wild type, confirming a role for the trapped gene in olfaction. To confirm the identity of the genes trapped in the lines we performed molecular analysis of some of the insertion sites. While for many lines the reported insertion sites were correct, we also demonstrated that for a number of lines the reported location of the element was incorrect, and in three lines there were in fact two pGT element insertions. CONCLUSIONS/SIGNIFICANCE: We identified 16 new genes expressed in the Drosophila olfactory organs, the majority in neurons, and for several of the gene trap lines demonstrated a defect in olfactory-driven behaviour. Further characterisation of these genes and their roles in olfactory system function and development will increase our understanding of how the insect olfactory system has evolved to perform the same essential function to that of mammals, but using very different molecular genetic mechanisms.
+
+22574182|t|A cytochrome p450 conserved in insects is involved in cuticle formation.
+22574182|a|The sequencing of numerous insect genomes has revealed dynamic changes in the number and identity of cytochrome P450 genes in different insects. In the evolutionary sense, the rapid birth and death of many P450 genes is observed, with only a small number of P450 genes showing orthology between insects with sequenced genomes. It is likely that these conserved P450s function in conserved pathways. In this study, we demonstrate the P450 gene, Cyp301a1, present in all insect genomes sequenced to date, affects the formation of the adult cuticle in Drosophila melanogaster. A Cyp301a1 piggyBac insertion mutant and RNAi of Cyp301a1 both show a similar cuticle malformation phenotype, which can be reduced by 20-hydroxyecdysone, suggesting that Cyp301a1 is an important gene involved in the formation of the adult cuticle and may be involved in ecdysone regulation in this tissue.
+22574182	517	525	Cyp301a1	Gene	36378
+22574182	649	657	Cyp301a1	Gene	36378
+22574182	696	704	Cyp301a1	Gene	36378
+22574182	817	825	Cyp301a1	Gene	36378
+
+22649507|t|Mutations in an AP2 transcription factor-like gene affect internode length and leaf shape in maize.
+22649507|a|BACKGROUND: Plant height is an important agronomic trait that affects yield and tolerance to certain abiotic stresses. Understanding the genetic control of plant height is important for elucidating the regulation of maize development and has practical implications for trait improvement in plant breeding. METHODOLOGY/PRINCIPAL FINDINGS: In this study, two independent, semi-dwarf maize EMS mutants, referred to as dwarf & irregular leaf (dil1), were isolated and confirmed to be allelic. In comparison to wild type plants, the mutant plants have shorter internodes, shorter, wider and wrinkled leaves, as well as smaller leaf angles. Cytological analysis indicated that the leaf epidermal cells and internode parenchyma cells are irregular in shape and are arranged in a more random fashion, and the mutants have disrupted leaf epidermal patterning. In addition, parenchyma cells in the dil1 mutants are significantly smaller than those in wild-type plants. The dil1 mutation was mapped on the long arm of chromosome 6 and a candidate gene, annotated as an AP2 transcription factor-like, was identified through positional cloning. Point mutations near exon-intron junctions were identified in both dil1 alleles, resulting in mis-spliced variants. CONCLUSION: An AP2 transcription factor-like gene involved in stalk and leaf development in maize has been identified. Mutations near exon-intron junctions of the AP2 gene give mis-spliced transcript variants, which result in shorter internodes and wrinkled leaves.
+
+22693572|t|Overexpression of a maize sulfite oxidase gene in tobacco enhances tolerance to sulfite stress via sulfite oxidation and CAT-mediated H2O2 scavenging.
+22693572|a|Sulfite oxidase (SO) plays an important role in sulfite metabolism. To date, the molecular mechanisms of sulfite metabolism in plants are largely unknown. Previously, a full-length cDNA of the putative sulfite oxidase gene from maize (ZmSO) was cloned, and its response to SO(2)/sulfite stress at the transcriptional level was characterized. In this study, the recombinant ZmSO protein was purified from E. coli. It exhibited sulfite-dependent activity and had strong affinity for the substrate sulfite. Over-expression (OE) of ZmSO in tobacco plants enhanced their tolerance to sulfite stress. The plants showed much less damage, less sulfite accumulation, but greater amounts of sulfate. This suggests that tolerance of transgenic plants to sulfite was enhanced by increasing SO expression levels. Interestingly, H(2)O(2) accumulation levels by histochemical detection and quantitative determination in the OE plants were much less than those in the wild-type upon sulfite stress. Furthermore, reductions of catalase levels detected in the OE lines were considerably less than in the wild-type plants. This indicates that SO may play an important role in protecting CAT from inhibition by excess sulfite. Collectively, these data demonstrate that transgenic tobacco plants over-expressing ZmSO enhance tolerance to excess sulfite through sulfite oxidation and catalase-mediated hydrogen peroxide scavenging. This is the first SO gene from monocots to be functionally characterized.
+22693572	1161	1169	catalase	Gene	107799583
+22693572	1513	1521	catalase	Gene	107799583
+
+22701670|t|Essential roles of the Tap42-regulated protein phosphatase 2A (PP2A) family in wing imaginal disc development of Drosophila melanogaster.
+22701670|a|Protein ser/thr phosphatase 2A family members (PP2A, PP4, and PP6) are implicated in the control of numerous biological processes, but our understanding of the in vivo function and regulation of these enzymes is limited. In this study, we investigated the role of Tap42, a common regulatory subunit for all three PP2A family members, in the development of Drosophila melanogaster wing imaginal discs. RNAi-mediated silencing of Tap42 using the binary Gal4/UAS system and two disc drivers, pnr- and ap-Gal4, not only decreased survival rates but also hampered the development of wing discs, resulting in a remarkable thorax cleft and defective wings in adults. Silencing of Tap42 also altered multiple signaling pathways (HH, JNK and DPP) and triggered apoptosis in wing imaginal discs. The Tap42(RNAi)-induced defects were the direct result of loss of regulation of Drosophila PP2A family members (MTS, PP4, and PPV), as enforced expression of wild type Tap42, but not a phosphatase binding defective Tap42 mutant, rescued fly survivorship and defects. The experimental platform described herein identifies crucial roles for Tap42 phosphatase complexes in governing imaginal disc and fly development.
+22701670	63	67	PP2A	Gene	2768940
+22701670	185	189	PP2A	Gene	2768940
+22701670	191	194	PP4	Gene	39337
+22701670	200	203	PP6	Gene	31582
+22701670	402	407	Tap42	Gene	326166
+22701670	451	455	PP2A	Gene	2768940
+22701670	566	571	Tap42	Gene	326166
+22701670	811	816	Tap42	Gene	326166
+22701670	863	866	JNK	Gene	44801
+22701670	871	874	DPP	Gene	33432
+22701670	928	933	Tap42	Gene	326166
+22701670	1015	1019	PP2A	Gene	2768940
+22701670	1041	1044	PP4	Gene	39337
+22701670	1050	1053	PPV	Gene	31582
+22701670	1092	1097	Tap42	Gene	326166
+22701670	1139	1144	Tap42	Gene	326166
+22701670	1263	1268	Tap42	Gene	326166
+
+22702356|t|Analysis of the P1 promoter in response to UV-B radiation in allelic variants of high-altitude maize.
+22702356|a|BACKGROUND: Plants living at high altitudes are typically exposed to elevated UV-B radiation, and harbor mechanisms to prevent the induced damage, such as the accumulation of UV-absorbing compounds. The maize R2R3-MYB transcription factor P1 controls the accumulation of several UV-B absorbing phenolics by activating a subset of flavonoid biosynthetic genes in leaves of maize landraces adapted to high altitudes. RESULTS: Here, we studied the UV-B regulation of P1 in maize leaves of high altitude landraces, and we investigated how UV-B regulates P1 binding to the CHS promoter in both low and high altitude lines. In addition, we analyzed whether the expansion in the P1 expression domain between these maize landraces and inbred lines is associated to changes in the molecular structure of the proximal promoter, distal enhancer and first intron of P1. Finally, using transient expression experiments in protoplasts from various maize genotypes, we investigated whether the different expression patterns of P1 in the high altitude landraces could be attributed to trans- or cis-acting elements. CONCLUSIONS: Together, our results demonstrate that, although differences in cis-acting elements exist between the different lines under study, the different patterns of P1 expression are largely a consequence of effects in trans.
+
+22792398|t|Co-induction of a glutathione-S-transferase, a glutathione transporter and an ABC transporter in maize by xenobiotics.
+22792398|a|Glutathione conjugation reactions are one of the principal mechanisms that plants utilize to detoxify xenobiotics. The induction by four herbicides (2,4-D, atrazine, metolachlor and primisulfuron) and a herbicide safener (dichlormid) on the expression of three genes, ZmGST27, ZmGT1 and ZmMRP1, encoding respectively a glutathione-S-transferase, a glutathione transporter and an ATP-binding cassette (ABC) transporter was studied in maize. The results demonstrate that the inducing effect on gene expression varies with both chemicals and genes. The expression of ZmGST27 and ZmMRP1 was up-regulated by all five compounds, whereas that of ZmGT1 was increased by atrazine, metolachlor, primisulfuron and dichlormid, but not by 2,4-D. For all chemicals, the inducing effect was first detected on ZmGST27. The finding that ZmGT1 is activated alongside ZmGST27 and ZmMRP1 suggests that glutathione transporters are an important component in the xenobiotic detoxification system of plants.
+22792398	387	394	ZmGST27	Gene	542311
+22792398	396	401	ZmGT1	Gene	542140
+22792398	406	412	ZmMRP1	Gene	100037760
+22792398	683	690	ZmGST27	Gene	542311
+22792398	695	701	ZmMRP1	Gene	100037760
+22792398	758	763	ZmGT1	Gene	542140
+22792398	913	920	ZmGST27	Gene	542311
+22792398	939	944	ZmGT1	Gene	542140
+22792398	968	975	ZmGST27	Gene	542311
+22792398	980	986	ZmMRP1	Gene	100037760
+
+22829778|t|RsfA (YbeB) proteins are conserved ribosomal silencing factors.
+22829778|a|The YbeB (DUF143) family of uncharacterized proteins is encoded by almost all bacterial and eukaryotic genomes but not archaea. While they have been shown to be associated with ribosomes, their molecular function remains unclear. Here we show that YbeB is a ribosomal silencing factor (RsfA) in the stationary growth phase and during the transition from rich to poor media. A knock-out of the rsfA gene shows two strong phenotypes: (i) the viability of the mutant cells are sharply impaired during stationary phase (as shown by viability competition assays), and (ii) during transition from rich to poor media the mutant cells adapt slowly and show a growth block of more than 10 hours (as shown by growth competition assays). RsfA silences translation by binding to the L14 protein of the large ribosomal subunit and, as a consequence, impairs subunit joining (as shown by molecular modeling, reporter gene analysis, in vitro translation assays, and sucrose gradient analysis). This particular interaction is conserved in all species tested, including Escherichia coli, Treponema pallidum, Streptococcus pneumoniae, Synechocystis PCC 6803, as well as human mitochondria and maize chloroplasts (as demonstrated by yeast two-hybrid tests, pull-downs, and mutagenesis). RsfA is unrelated to the eukaryotic ribosomal anti-association/60S-assembly factor eIF6, which also binds to L14, and is the first such factor in bacteria and organelles. RsfA helps cells to adapt to slow-growth/stationary phase conditions by down-regulating protein synthesis, one of the most energy-consuming processes in both bacterial and eukaryotic cells.
+22829778	1415	1419	eIF6	Gene	3692
+
+22865912|t|Nitric oxide-activated calcium/calmodulin-dependent protein kinase regulates the abscisic acid-induced antioxidant defence in maize.
+22865912|a|Nitric oxide (NO), hydrogen peroxide (H2O2), and calcium (Ca2+)/calmodulin (CaM) are all required for abscisic acid (ABA)-induced antioxidant defence. Ca2+/CaM-dependent protein kinase (CCaMK) is a strong candidate for the decoder of Ca2+ signals. However, whether CCaMK is involved in ABA-induced antioxidant defence is unknown. The results of the present study show that exogenous and endogenous ABA induced increases in the activity of ZmCCaMK and the expression of ZmCCaMK in leaves of maize. Subcellular localization analysis showed that ZmCCaMK is located in the nucleus, the cytoplasm, and the plasma membrane. The transient expression of ZmCCaMK and the RNA interference (RNAi) silencing of ZmCCaMK analysis in maize protoplasts revealed that ZmCCaMK is required for ABA-induced antioxidant defence. Moreover, treatment with the NO donor sodium nitroprusside (SNP) induced the activation of ZmCCaMK and the expression of ZmCCaMK. Pre-treatments with an NO scavenger and inhibitor blocked the ABA-induced increases in the activity and the transcript level of ZmCCaMK. Conversely, RNAi silencing of ZmCCaMK in maize protoplasts did not affect the ABA-induced NO production, which was further confirmed using a mutant of OsCCaMK, the homologous gene of ZmCCaMK in rice. Moreover, H2O2 was also required for the ABA activation of ZmCCaMK, and pre-treatments with an NO scavenger and inhibitor inhibited the H2O2-induced increase in the activity of ZmCCaMK. Taken together, the data clearly suggest that ZmCCaMK is required for ABA-induced antioxidant defence, and H2O2-dependent NO production plays an important role in the ABA-induced activation of ZmCCaMK.
+22865912	284	317	Ca2+/CaM-dependent protein kinase	Gene	732824
+22865912	319	324	CCaMK	Gene	732824
+22865912	398	403	CCaMK	Gene	732824
+22865912	572	579	ZmCCaMK	Gene	732824
+22865912	602	609	ZmCCaMK	Gene	732824
+22865912	676	683	ZmCCaMK	Gene	732824
+22865912	779	786	ZmCCaMK	Gene	732824
+22865912	832	839	ZmCCaMK	Gene	732824
+22865912	884	891	ZmCCaMK	Gene	732824
+22865912	1032	1039	ZmCCaMK	Gene	732824
+22865912	1062	1069	ZmCCaMK	Gene	732824
+22865912	1199	1206	ZmCCaMK	Gene	732824
+22865912	1238	1245	ZmCCaMK	Gene	732824
+22865912	1391	1398	ZmCCaMK	Gene	732824
+22865912	1467	1474	ZmCCaMK	Gene	732824
+22865912	1585	1592	ZmCCaMK	Gene	732824
+22865912	1640	1647	ZmCCaMK	Gene	732824
+22865912	1787	1794	ZmCCaMK	Gene	732824
+
+22870182|t|Role of plastid transglutaminase in LHCII polyamination and thylakoid electron and proton flow.
+22870182|a|Transglutaminases function as biological glues in animal cells, plant cells and microbes. In energy producing organelles such as chloroplasts the presence of transglutaminases was recently confirmed. Furthermore, a plastidial transglutaminase has been cloned from maize and the first plants overexpressing tgz are available (Nicotiana tabacum TGZ OE). Our hypothesis is that the overexpression of plastidal transglutaminase will alter photosynthesis via increased polyamination of the antenna of photosystem II. We have used standard analytical tools to separate the antenna from photosystem II in wild type and modified plants, 6 specific antibodies against LHCbs to confirm their presence and sensitive HPLC method to quantify the polyamination level of these proteins. We report that bound spermidine and spermine were significantly increased (~80%) in overexpressors. Moreover, we used recent advances in in vivo probing to study simultaneously the proton and electron circuit of thylakoids. Under physiological conditions overexpressors show a 3-fold higher sensitivity of the antenna down regulation loop (qE) to the elicitor (luminal protons) which is estimated as the DeltapH component of thylakoidal proton motive force. In addition, photosystem (hyper-PSIIalpha) with an exceptionally high antenna (large absorption cross section), accumulate in transglutaminase over expressers doubling the rate constant of light energy utilization (Kalpha) and promoting thylakoid membrane stacking. Polyamination of antenna proteins is a previously unrecognized mechanism for the modulation of the size (antenna absorption cross section) and sensitivity of photosystem II to down regulation. Future research will reveal which peptides and which residues of the antenna are responsible for such effects.
+22870182	16	32	transglutaminase	Gene	100857012
+22870182	322	338	transglutaminase	Gene	100857012
+22870182	503	519	transglutaminase	Gene	100857012
+22870182	1452	1468	transglutaminase	Gene	100857012
+
+22879948|t|fussel (fuss)--A negative regulator of BMP signaling in Drosophila melanogaster.
+22879948|a|The TGF-beta/BMP signaling cascades control a wide range of developmental and physiological functions in vertebrates and invertebrates. In Drosophila melanogaster, members of this pathway can be divided into a Bone Morphogenic Protein (BMP) and an Activin-ss (Act-ss) branch, where Decapentaplegic (Dpp), a member of the BMP family has been most intensively studied. They differ in ligands, receptors and transmitting proteins, but also share some components, such as the Co-Smad Medea (Med). The essential role of Med is to form a complex with one of the two activating Smads, mothers against decapentaplegic (Mad) or dSmad, and to translocate together to the nucleus where they can function as transcriptional regulators of downstream target genes. This signaling cascade underlies different mechanisms of negative regulation, which can be exerted by inhibitory Smads, such as daughters against decapentaplegic (dad), but also by the Ski-Sno family. In this work we identified and functionally analyzed a new member of the Ski/Sno-family, fussel (fuss), the Drosophila homolog of the human functional suppressing element 15 (fussel-15). fuss codes for two differentially spliced transcripts with a neuronal expression pattern. The proteins are characterized by a Ski-Sno and a SAND homology domain. Overexpression studies and genetic interaction experiments clearly reveal an interaction of fuss with members of the BMP pathway, leading to a strong repression of BMP-signaling. The protein interacts directly with Medea and seems to reprogram the Smad pathway through its influence upon the formation of functional Mad/Medea complexes. This leads amongst others to a repression of downstream target genes of the Dpp pathway, such as optomotor blind (omb). Taken together we could show that fuss exerts a pivotal role as an antagonist of BMP signaling in Drosophila melanogaster.
+22879948	85	93	TGF-beta	Gene	33432
+22879948	291	315	Bone Morphogenic Protein	Gene	33432
+22879948	380	383	Dpp	Gene	33432
+22879948	1021	1024	Sno	Gene	32273
+22879948	1110	1113	Sno	Gene	32273
+22879948	1122	1128	fussel	Gene	43835
+22879948	1130	1134	fuss	Gene	43835
+22879948	1173	1206	functional suppressing element 15	Gene	390598
+22879948	1208	1217	fussel-15	Gene	390598
+22879948	1220	1224	fuss	Gene	43835
+22879948	1350	1353	Sno	Gene	55206
+22879948	1474	1478	fuss	Gene	43835
+22879948	1597	1602	Medea	Gene	43725
+22879948	1630	1634	Smad	Gene	43725
+22879948	1702	1707	Medea	Gene	43725
+22879948	1795	1798	Dpp	Gene	33432
+22879948	1816	1831	optomotor blind	Gene	31379
+22879948	1833	1836	omb	Gene	31379
+22879948	1873	1877	fuss	Gene	43835
+
+22912598|t|Cryptocephal, the Drosophila melanogaster ATF4, is a specific coactivator for ecdysone receptor isoform B2.
+22912598|a|The ecdysone receptor is a heterodimer of two nuclear receptors, the Ecdysone receptor (EcR) and Ultraspiracle (USP). In Drosophila melanogaster, three EcR isoforms share common DNA and ligand-binding domains, but these proteins differ in their most N-terminal regions and, consequently, in the activation domains (AF1s) contained therein. The transcriptional coactivators for these domains, which impart unique transcriptional regulatory properties to the EcR isoforms, are unknown. Activating transcription factor 4 (ATF4) is a basic-leucine zipper transcription factor that plays a central role in the stress response of mammals. Here we show that Cryptocephal (CRC), the Drosophila homolog of ATF4, is an ecdysone receptor coactivator that is specific for isoform B2. CRC interacts with EcR-B2 to promote ecdysone-dependent expression of ecdysis-triggering hormone (ETH), an essential regulator of insect molting behavior. We propose that this interaction explains some of the differences in transcriptional properties that are displayed by the EcR isoforms, and similar interactions may underlie the differential activities of other nuclear receptors with distinct AF1-coactivators.
+22912598	112	129	ecdysone receptor	Gene	35540
+22912598	177	194	Ecdysone receptor	Gene	35540
+22912598	196	199	EcR	Gene	35540
+22912598	220	223	USP	Gene	31165
+22912598	260	263	EcR	Gene	35540
+22912598	565	568	EcR	Gene	35540
+22912598	773	776	CRC	Gene	47767
+22912598	817	834	ecdysone receptor	Gene	35540
+22912598	880	883	CRC	Gene	47767
+22912598	950	976	ecdysis-triggering hormone	Gene	44125
+22912598	1157	1160	EcR	Gene	35540
+
+22937104|t|Zea mays Taxilin protein negatively regulates opaque-2 transcriptional activity by causing a change in its sub-cellular distribution.
+22937104|a|Zea mays (maize) Opaque-2 (ZmO2) protein is an important bZIP transcription factor that regulates the expression of major storage proteins (22-kD zeins) and other important genes during maize seed development. ZmO2 is subject to functional regulation through protein-protein interactions. To unveil the potential regulatory network associated with ZmO2, a protein-protein interaction study was carried out using the truncated version of ZmO2 (O2-2) as bait in a yeast two-hybrid screen with a maize seed cDNA library. A protein with homology to Taxilin was found to have stable interaction with ZmO2 in yeast and was designated as ZmTaxilin. Sequence analysis indicated that ZmTaxilin has a long coiled-coil domain containing three conserved zipper motifs. Each of the three zipper motifs is individually able to interact with ZmO2 in yeast. A GST pull-down assay demonstrated the interaction between GST-fused ZmTaxilin and ZmO2 extracted from developing maize seeds. Using onion epidermal cells as in vivo assay system, we found that ZmTaxilin could change the sub-cellular distribution of ZmO2. We also demonstrated that this change significantly repressed the transcriptional activity of ZmO2 on the 22-kD zein promoter. Our study suggests that a Taxilin-mediated change in sub-cellular distribution of ZmO2 may have important functional consequences for ZmO2 activity.
+22937104	161	165	ZmO2	Gene	542375
+22937104	344	348	ZmO2	Gene	542375
+22937104	482	486	ZmO2	Gene	542375
+22937104	571	575	ZmO2	Gene	542375
+22937104	577	579	O2	Gene	542375
+22937104	729	733	ZmO2	Gene	542375
+22937104	961	965	ZmO2	Gene	542375
+22937104	1059	1063	ZmO2	Gene	542375
+22937104	1226	1230	ZmO2	Gene	542375
+22937104	1326	1330	ZmO2	Gene	542375
+22937104	1441	1445	ZmO2	Gene	542375
+22937104	1493	1497	ZmO2	Gene	542375
+
+22952820|t|Modeling pathogenic mutations of human twinkle in Drosophila suggests an apoptosis role in response to mitochondrial defects.
+22952820|a|The human gene C10orf2 encodes the mitochondrial replicative DNA helicase Twinkle, mutations of which are responsible for a significant fraction of cases of autosomal dominant progressive external ophthalmoplegia (adPEO), a human mitochondrial disease caused by defects in intergenomic communication. We report the analysis of orthologous mutations in the Drosophila melanogaster mitochondrial DNA (mtDNA) helicase gene, d-mtDNA helicase. Increased expression of wild type d-mtDNA helicase using the UAS-GAL4 system leads to an increase in mtDNA copy number throughout adult life without any noteworthy phenotype, whereas overexpression of d-mtDNA helicase containing the K388A mutation in the helicase active site results in a severe depletion of mtDNA and a lethal phenotype. Overexpression of two d-mtDNA helicase variants equivalent to two human adPEO mutations shows differential effects. The A442P mutation exhibits a dominant negative effect similar to that of the active site mutant. In contrast, overexpression of d-mtDNA helicase containing the W441C mutation results in a slight decrease in mtDNA copy number during the third instar larval stage, and a moderate decrease in life span in the adult population. Overexpression of d-mtDNA helicase containing either the K388A or A442P mutations causes a mitochondrial oxidative phosphorylation (OXPHOS) defect that significantly reduces cell proliferation. The mitochondrial impairment caused by these mutations promotes apoptosis, arguing that mitochondria regulate programmed cell death in Drosophila. Our study of d-mtDNA helicase overexpression provides a tractable Drosophila model for understanding the cellular and molecular effects of human adPEO mutations.
+22952820	141	148	C10orf2	Gene	56652
+22952820	506	540	mitochondrial DNA (mtDNA) helicase	Gene	34307
+22952820	547	563	d-mtDNA helicase	Gene	34307
+22952820	599	615	d-mtDNA helicase	Gene	34307
+22952820	630	634	GAL4	Gene	3960
+22952820	766	782	d-mtDNA helicase	Gene	34307
+22952820	926	942	d-mtDNA helicase	Gene	34307
+22952820	1149	1165	d-mtDNA helicase	Gene	34307
+22952820	1364	1380	d-mtDNA helicase	Gene	34307
+22952820	1700	1716	d-mtDNA helicase	Gene	34307
+
+22952921|t|TRP, TRPL and cacophony channels mediate Ca2+ influx and exocytosis in photoreceptors axons in Drosophila.
+22952921|a|In Drosophila photoreceptors Ca(2+)-permeable channels TRP and TRPL are the targets of phototransduction, occurring in photosensitive microvilli and mediated by a phospholipase C (PLC) pathway. Using a novel Drosophila brain slice preparation, we studied the distribution and physiological properties of TRP and TRPL in the lamina of the visual system. Immunohistochemical images revealed considerable expression in photoreceptors axons at the lamina. Other phototransduction proteins are also present, mainly PLC and protein kinase C, while rhodopsin is absent. The voltage-dependent Ca(2+) channel cacophony is also present there. Measurements in the lamina with the Ca(2+) fluorescent protein G-CaMP ectopically expressed in photoreceptors, revealed depolarization-induced Ca(2+) increments mediated by cacophony. Additional Ca(2+) influx depends on TRP and TRPL, apparently functioning as store-operated channels. Single synaptic boutons resolved in the lamina by FM4-64 fluorescence revealed that vesicle exocytosis depends on cacophony, TRP and TRPL. In the PLC mutant norpA bouton labeling was also impaired, implicating an additional modulation by this enzyme. Internal Ca(2+) also contributes to exocytosis, since this process was reduced after Ca(2+)-store depletion. Therefore, several Ca(2+) pathways participate in photoreceptor neurotransmitter release: one is activated by depolarization and involves cacophony; this is complemented by internal Ca(2+) release and the activation of TRP and TRPL coupled to Ca(2+) depletion of internal reservoirs. PLC may regulate the last two processes. TRP and TRPL would participate in two different functions in distant cellular regions, where they are opened by different mechanisms. This work sheds new light on the mechanism of neurotransmitter release in tonic synapses of non-spiking neurons.
+22952921	649	658	rhodopsin	Gene	42367
+22952921	1182	1187	norpA	Gene	31376
+
+23028562|t|Drosophila Ninjurin A induces nonapoptotic cell death.
+23028562|a|Ninjurins are conserved transmembrane proteins that are upregulated across species in response to injury and stress. Their biological functions are not understood, in part because there have been few in vivo studies of their function. We analyzed the expression and function of one of three Drosophila Ninjurins, NijA. We found that NijA protein is redistributed to the cell surface in larval immune tissues after septic injury and is upregulated by the Toll pathway. We generated a null mutant of NijA, which displayed no detectable phenotype. In ectopic expression studies, NijA induced cell death, as evidenced by cell loss and acridine orange staining. These dying cells did not display hallmarks of apoptotic cells including TUNEL staining and inhibition by p35, indicating that NijA induced nonapoptotic cell death. In cell culture, NijA also induced cell death, which appeared to be cell autonomous. These in vivo studies identify a new role for the Ninjurin family in inducing nonapoptotic cell death.
+23028562	368	372	NijA	Gene	39215
+23028562	388	392	NijA	Gene	39215
+23028562	509	513	Toll	Gene	43222
+23028562	553	557	NijA	Gene	39215
+23028562	631	635	NijA	Gene	39215
+23028562	839	843	NijA	Gene	39215
+23028562	894	898	NijA	Gene	39215
+
+23028662|t|The small GTPase Rheb affects central brain neuronal morphology and memory formation in Drosophila.
+23028662|a|Mutations in either of two tumor suppressor genes, TSC1 or TSC2, cause tuberous sclerosis complex (TSC), a syndrome resulting in benign hamartomatous tumors and neurological disorders. Cellular growth defects and neuronal disorganization associated with TSC are believed to be due to upregulated TOR signaling. We overexpressed Rheb, an upstream regulator of TOR, in two different subsets of D. melanogaster central brain neurons in order to upregulate the Tsc-Rheb-TOR pathway. Overexpression of Rheb in either the mushroom bodies or the insulin producing cells resulted in enlarged axon projections and cell bodies, which continued to increase in size with prolonged Rheb expression as the animals aged. Additionally, Rheb overexpression in the mushroom bodies resulted in deficiencies in 3 hr but not immediate appetitive memory. Thus, Rheb overexpression in the central brain neurons of flies causes not only morphological phenotypes, but behavioral and aging phenotypes that may mirror symptoms of TSC.
+23028662	17	21	Rheb	Gene	117332
+23028662	151	155	TSC1	Gene	42862
+23028662	159	163	TSC2	Gene	40201
+23028662	199	202	TSC	Gene	40201
+23028662	354	357	TSC	Gene	40201
+23028662	396	399	TOR	Gene	47396
+23028662	428	432	Rheb	Gene	117332
+23028662	459	462	TOR	Gene	47396
+23028662	557	560	Tsc	Gene	40201
+23028662	561	565	Rheb	Gene	117332
+23028662	566	569	TOR	Gene	47396
+23028662	597	601	Rheb	Gene	117332
+23028662	769	773	Rheb	Gene	117332
+23028662	820	824	Rheb	Gene	117332
+23028662	939	943	Rheb	Gene	117332
+23028662	1103	1106	TSC	Gene	40201
+
+23028777|t|A role for the CAL1-partner Modulo in centromere integrity and accurate chromosome segregation in Drosophila.
+23028777|a|The relationship between the nucleolus and the centromere, although documented, remains one of the most elusive aspects of centromere assembly and maintenance. Here we identify the nucleolar protein, Modulo, in complex with CAL1, a factor essential for the centromeric deposition of the centromere-specific histone H3 variant, CID, in Drosophila. Notably, CAL1 localizes to both centromeres and the nucleolus. Depletion of Modulo, by RNAi, results in defective recruitment of newly-synthesized CAL1 at the centromere. Furthermore, depletion of Modulo negatively affects levels of CID at the centromere and results in chromosome missegregation. Interestingly, examination of Modulo localization during mitosis reveals it localizes to the chromosome periphery but not the centromere. Combined, the data suggest that rather than a direct regulatory role at the centromere, it is the nucleolar function of modulo which is regulating the assembly of the centromere by directing the localization of CAL1. We propose that a functional link between the nucleolus and centromere assembly exists in Drosophila, which is regulated by Modulo.
+23028777	15	19	CAL1	Gene	42065
+23028777	28	34	Modulo	Gene	43764
+23028777	310	316	Modulo	Gene	43764
+23028777	334	338	CAL1	Gene	42065
+23028777	437	440	CID	Gene	36495
+23028777	466	470	CAL1	Gene	42065
+23028777	533	539	Modulo	Gene	43764
+23028777	604	608	CAL1	Gene	42065
+23028777	654	660	Modulo	Gene	43764
+23028777	690	693	CID	Gene	36495
+23028777	784	790	Modulo	Gene	43764
+23028777	1012	1018	modulo	Gene	43764
+23028777	1103	1107	CAL1	Gene	42065
+23028777	1233	1239	Modulo	Gene	43764
+
+23029159|t|Drosophila Zpr1 (Zinc finger protein 1) is required downstream of both EGFR and FGFR signaling in tracheal subcellular lumen formation.
+23029159|a|The cellular and molecular cues involved in creating branched tubular networks that transport liquids or gases throughout an organism are not well understood. To identify factors required in branching and lumen formation of Drosophila tracheal terminal cells, a model for branched tubular networks, we performed a forward genetic-mosaic screen to isolate mutations affecting these processes. From this screen, we have identified the first Drosophila mutation in the gene Zpr1 (Zinc finger protein 1) by the inability of Zpr1-mutant terminal cells to form functional, gas-filled lumens. We show that Zpr1 defective cells initiate lumen formation, but are blocked from completing the maturation required for gas filling. Zpr1 is an evolutionarily conserved protein first identified in mammalian cells as a factor that binds the intracellular domain of the unactivated epidermal growth factor receptor (EGFR). We show that down-regulation of EGFR in terminal cells phenocopies Zpr1 mutations and that Zpr1 is epistatic to ectopic lumen formation driven by EGFR overexpression. However, while Zpr1 mutants are fully penetrant, defects observed when reducing EGFR activity are only partially penetrant. These results suggest that a distinct pathway operating in parallel to the EGFR pathway contributes to lumen formation, and this pathway is also dependent on Zpr1. We provide evidence that this alternative pathway may involve fibroblast growth factor receptor (FGFR) signaling. We suggest a model in which Zpr1 mediates both EGFR and FGFR signal transduction cascades required for lumen formation in terminal cells. To our knowledge, this is the first genetic evidence placing Zpr1 downstream of EGFR signaling, and the first time Zpr1 has been implicated in FGFR signaling. Finally, we show that down-regulation of Smn, a protein known to interact with Zpr1 in mammalian cells, shows defects similar to Zpr1 mutants.
+23029159	11	15	Zpr1	Gene	31851
+23029159	17	38	Zinc finger protein 1	Gene	31851
+23029159	71	75	EGFR	Gene	37455
+23029159	80	84	FGFR	Gene	39564
+23029159	607	611	Zpr1	Gene	31851
+23029159	613	634	Zinc finger protein 1	Gene	31851
+23029159	656	660	Zpr1	Gene	31851
+23029159	735	739	Zpr1	Gene	31851
+23029159	855	859	Zpr1	Gene	8882
+23029159	1002	1034	epidermal growth factor receptor	Gene	1956
+23029159	1036	1040	EGFR	Gene	1956
+23029159	1075	1079	EGFR	Gene	1956
+23029159	1110	1114	Zpr1	Gene	8882
+23029159	1134	1138	Zpr1	Gene	8882
+23029159	1189	1193	EGFR	Gene	1956
+23029159	1225	1229	Zpr1	Gene	8882
+23029159	1290	1294	EGFR	Gene	1956
+23029159	1409	1413	EGFR	Gene	1956
+23029159	1492	1496	Zpr1	Gene	8882
+23029159	1560	1593	fibroblast growth factor receptor	Gene	39564
+23029159	1595	1599	FGFR	Gene	39564
+23029159	1640	1644	Zpr1	Gene	8882
+23029159	1659	1663	EGFR	Gene	1956
+23029159	1668	1672	FGFR	Gene	39564
+23029159	1811	1815	Zpr1	Gene	8882
+23029159	1830	1834	EGFR	Gene	1956
+23029159	1865	1869	Zpr1	Gene	8882
+23029159	1893	1897	FGFR	Gene	39564
+23029159	1950	1953	Smn	Gene	6606
+23029159	1988	1992	Zpr1	Gene	8882
+23029159	2038	2042	Zpr1	Gene	8882
+
+23055943|t|Maize Unstable factor for orange1 is required for maintaining silencing associated with paramutation at the pericarp color1 and booster1 loci.
+23055943|a|To understand the molecular mechanisms underlying paramutation, we examined the role of Unstable factor for orange1 (Ufo1) in maintaining paramutation at the maize pericarp color1 (p1) and booster1 (b1) loci. Genetic tests revealed that the Ufo1-1 mutation disrupted silencing associated with paramutation at both p1 and b1. The level of up regulation achieved at b1 was lower than that at p1, suggesting differences in the role Ufo1-1 plays at these loci. We characterized the interaction of Ufo1-1 with two silenced p1 epialleles, P1-rr' and P1-pr(TP), that were derived from a common P1-rr ancestor. Both alleles are phenotypically indistinguishable, but differ in their paramutagenic activity; P1-rr' is paramutagenic to P1-rr, while P1-pr(TP) is non-paramutagenic. Analysis of cytosine methylation revealed striking differences within an enhancer fragment that is required for paramutation; P1-rr' exhibited increased methylation at symmetric (CG and CHG) and asymmetric (CHH) sites, while P1-pr(TP) was methylated only at symmetric sites. Both silenced alleles had higher levels of dimethylation of lysine 9 on histone 3 (H3K9me2), an epigenetic mark of silent chromatin, in the enhancer region. Both epialleles were reactivated in the Ufo1-1 background; however, reactivation of P1-rr' was associated with dramatic loss of symmetric and asymmetric cytosine methylation in the enhancer, while methylation of up-regulated P1-pr(TP) was not affected. Interestingly, Ufo1-1-mediated reactivation of both alleles was accompanied with loss of H3K9me2 mark from the enhancer region. Therefore, while earlier studies have shown correlation between H3K9me2 and DNA methylation, our study shows that these two epigenetic marks are uncoupled in the Ufo1-1-reactivated p1 alleles. Furthermore, while CHH methylation at the enhancer region appears to be the major distinguishing mark between paramutagenic and non-paramutagenic p1 alleles, H3K9me2 mark appears to be important for maintaining epigenetic silencing.
+
+23113982|t|Expression of flavonoid 3'-hydroxylase is controlled by P1, the regulator of 3-deoxyflavonoid biosynthesis in maize.
+23113982|a|BACKGROUND: The maize (Zea mays) red aleurone1 (pr1) encodes a CYP450-dependent flavonoid 3'-hydroxylase (ZmF3'H1) required for the biosynthesis of purple and red anthocyanin pigments. We previously showed that Zmf3'h1 is regulated by C1 (Colorless1) and R1 (Red1) transcription factors. The current study demonstrates that, in addition to its role in anthocyanin biosynthesis, the Zmf3'h1 gene also participates in the biosynthesis of 3-deoxyflavonoids and phlobaphenes that accumulate in maize pericarps, cob glumes, and silks. Biosynthesis of 3-deoxyflavonoids is regulated by P1 (Pericarp color1) and is independent from the action of C1 and R1 transcription factors. RESULTS: In maize, apiforol and luteoforol are the precursors of condensed phlobaphenes. Maize lines with functional alleles of pr1 and p1 (Pr1;P1) accumulate luteoforol, while null pr1 lines with a functional or non-functional p1 allele (pr1;P1 or pr1;p1) accumulate apiforol. Apiforol lacks a hydroxyl group at the 3'-position of the flavylium B-ring, while luteoforol has this hydroxyl group. Our biochemical analysis of accumulated compounds in different pr1 genotypes showed that the pr1 encoded ZmF3'H1 has a role in the conversion of mono-hydroxylated to bi-hydroxylated compounds in the B-ring. Steady state RNA analyses demonstrated that Zmf3'h1 mRNA accumulation requires a functional p1 allele. Using a combination of EMSA and ChIP experiments, we established that the Zmf3'h1 gene is a direct target of P1. Highlighting the significance of the Zmf3'h1 gene for resistance against biotic stress, we also show here that the p1 controlled 3-deoxyanthocyanidin and C-glycosyl flavone (maysin) defence compounds accumulate at significantly higher levels in Pr1 silks as compared to pr1 silks. By virtue of increased maysin synthesis in Pr1 plants, corn ear worm larvae fed on Pr1; P1 silks showed slower growth as compared to pr1; P1 silks. CONCLUSIONS: Our results show that the Zmf3'h1 gene participates in the biosynthesis of phlobaphenes and agronomically important 3-deoxyflavonoid compounds under the regulatory control of P1.
+23113982	165	168	pr1	Gene	542352
+23113982	697	716	P1 (Pericarp color1	Gene	542272
+23113982	917	927	pr1 and p1	Gene	542352
+23113982	929	932	Pr1	Gene	542352
+23113982	971	974	pr1	Gene	542352
+23113982	1028	1031	pr1	Gene	542352
+23113982	1038	1041	pr1	Gene	542352
+23113982	1248	1251	pr1	Gene	542352
+23113982	1278	1281	pr1	Gene	542352
+23113982	1853	1856	Pr1	Gene	542352
+23113982	1878	1881	pr1	Gene	542352
+23113982	1932	1935	Pr1	Gene	542352
+23113982	1972	1975	Pr1	Gene	542352
+23113982	2022	2025	pr1	Gene	542352
+
+23118940|t|Functional and transcriptome analysis reveals an acclimatization strategy for abiotic stress tolerance mediated by Arabidopsis NF-YA family members.
+23118940|a|Nuclear Factor Y (NF-Y) is a heterotrimeric complex formed by NF-YA/NF-YB/NF-YC subunits that binds to the CCAAT-box in eukaryotic promoters. In contrast to other organisms, in which a single gene encodes each subunit, in plants gene families of over 10 members encode each of the subunits. Here we report that five members of the Arabidopsis thaliana NF-YA family are strongly induced by several stress conditions via transcriptional and miR169-related post-transcriptional mechanisms. Overexpression of NF-YA2, 7 and 10 resulted in dwarf late-senescent plants with enhanced tolerance to several types of abiotic stress. These phenotypes are related to alterations in sucrose/starch balance and cell elongation observed in NF-YA overexpressing plants. The use of transcriptomic analysis of transgenic plants that express miR169-resistant versions of NF-YA2, 3, 7, and 10 under an estradiol inducible system, as well as a dominant-repressor version of NF-YA2 revealed a set of genes, whose promoters are enriched in NF-Y binding sites (CCAAT-box) and that may be directly regulated by the NF-Y complex. This analysis also suggests that NF-YAs could participate in modulating gene regulation through positive and negative mechanisms. We propose a model in which the increase in NF-YA transcript levels in response to abiotic stress is part of an adaptive response to adverse environmental conditions in which a reduction in plant growth rate plays a key role.
+23118940	654	660	NF-YA2	Gene	819738
+23118940	1000	1020	NF-YA2, 3, 7, and 10	Gene	819738;843614;839929;830539
+23118940	1101	1107	NF-YA2	Gene	819738
+
+23133401|t|Antagonistic gene activities determine the formation of pattern elements along the mediolateral axis of the Arabidopsis fruit.
+23133401|a|The Arabidopsis fruit mainly consists of a mature ovary that shows three well defined territories that are pattern elements along the mediolateral axis: the replum, located at the medial plane of the flower, and the valve and the valve margin, both of lateral nature. JAG/FIL activity, which includes the combined functions of JAGGED (JAG), FILAMENTOUS FLOWER (FIL), and YABBY3 (YAB3), contributes to the formation of the two lateral pattern elements, whereas the cooperating genes BREVIPEDICELLUS (BP) and REPLUMLESS (RPL) promote replum development. A recent model to explain pattern formation along the mediolateral axis hypothesizes that JAG/FIL activity and BP/RPL function as antagonistic lateral and medial factors, respectively, which tend to repress each other. In this work, we demonstrate the existence of mutual exclusion mechanisms between both kinds of factors, and how this determines the formation and size of the three territories. Medial factors autonomously constrain lateral factors so that they only express outside the replum, and lateral factors negatively regulate the medially expressed BP gene in a non-autonomous fashion to ensure correct replum development. We also have found that ASYMMETRIC LEAVES1 (AS1), previously shown to repress BP both in leaves and ovaries, collaborates with JAG/FIL activity, preventing its repression by BP and showing synergistic interactions with JAG/FIL activity genes. Therefore AS gene function (the function of the interacting genes AS1 and AS2) has been incorporated in the model as a new lateral factor. Our model of antagonistic factors provides explanation for mutant fruit phenotypes in Arabidopsis and also may help to understand natural variation of fruit shape in Brassicaceae and other species, since subtle changes in gene expression may cause conspicuous changes in the size of the different tissue types.
+23133401	395	398	JAG	Gene	843177
+23133401	454	460	JAGGED	Gene	843177
+23133401	462	465	JAG	Gene	843177
+23133401	498	504	YABBY3	Gene	827914
+23133401	634	644	REPLUMLESS	Gene	831745
+23133401	646	649	RPL	Gene	831745
+23133401	769	772	JAG	Gene	843177
+23133401	790	796	BP/RPL	Gene	831745
+23133401	1337	1355	ASYMMETRIC LEAVES1	Gene	818340
+23133401	1357	1360	AS1	Gene	818340
+23133401	1440	1443	JAG	Gene	843177
+23133401	1532	1535	JAG	Gene	843177
+23133401	1622	1625	AS1	Gene	818340
+23133401	1630	1633	AS2	Gene	842873
+
+23133621|t|The Arabidopsis thaliana immunophilin ROF1 directly interacts with PI(3)P and PI(3,5)P2 and affects germination under osmotic stress.
+23133621|a|A direct interaction of the Arabidopsis thaliana immunophilin ROF1 with phosphatidylinositol-3-phosphate and phosphatidylinositol-3,5-bisphosphate was identified using a phosphatidylinositol-phosphate affinity chromatography of cell suspension extracts, combined with a mass spectrometry (nano LC ESI-MS/MS) analysis. The first FK506 binding domain was shown sufficient to bind to both phosphatidylinositol-phosphate stereoisomers. GFP-tagged ROF1 under the control of a 35S promoter was localised in the cytoplasm and the cell periphery of Nicotiana tabacum leaf explants. Immunofluorescence microscopy of Arabidopsis thaliana root tips verified its cytoplasmic localization and membrane association and showed ROF1 localization in the elongation zone which was expanded to the meristematic zone in plants grown on high salt media. Endogenous ROF1 was shown to accumulate in response to high salt treatment in Arabidopsis thaliana young leaves as well as in seedlings germinated on high salt media (0.15 and 0.2 M NaCl) at both an mRNA and protein level. Plants over-expressing ROF1, (WSROF1OE), exhibited enhanced germination under salinity stress which was significantly reduced in the rof1(-) knock out mutants and abolished in the double mutants of ROF1 and of its interacting homologue ROF2 (WSrof1(-)/2(-)). Our results show that ROF1 plays an important role in the osmotic/salt stress responses of germinating Arabidopsis thaliana seedlings and suggest its involvement in salinity stress responses through a phosphatidylinositol-phosphate related protein quality control pathway.
+23133621	38	42	ROF1	Gene	822117
+23133621	196	200	ROF1	Gene	822117
+23133621	577	581	ROF1	Gene	107824095
+23133621	846	850	ROF1	Gene	822117
+23133621	978	982	ROF1	Gene	822117
+23133621	1213	1217	ROF1	Gene	822117
+23133621	1323	1327	rof1	Gene	822117
+23133621	1388	1392	ROF1	Gene	822117
+23133621	1426	1430	ROF2	Gene	834913
+23133621	1471	1475	ROF1	Gene	822117
+
+23144629|t|The DNA replication factor RFC1 is required for interference-sensitive meiotic crossovers in Arabidopsis thaliana.
+23144629|a|During meiotic recombination, induced double-strand breaks (DSBs) are processed into crossovers (COs) and non-COs (NCO); the former are required for proper chromosome segregation and fertility. DNA synthesis is essential in current models of meiotic recombination pathways and includes only leading strand DNA synthesis, but few genes crucial for DNA synthesis have been tested genetically for their functions in meiosis. Furthermore, lagging strand synthesis has been assumed to be unnecessary. Here we show that the Arabidopsis thaliana DNA replication factor C1 (RFC1) important for lagging strand synthesis is necessary for fertility, meiotic bivalent formation, and homolog segregation. Loss of meiotic RFC1 function caused abnormal meiotic chromosome association and other cytological defects; genetic analyses with other meiotic mutations indicate that RFC1 acts in the MSH4-dependent interference-sensitive pathway for CO formation. In a rfc1 mutant, residual pollen viability is MUS81-dependent and COs exhibit essentially no interference, indicating that these COs form via the MUS81-dependent interference-insensitive pathway. We hypothesize that lagging strand DNA synthesis is important for the formation of double Holliday junctions, but not alternative recombination intermediates. That RFC1 is found in divergent eukaryotes suggests a previously unrecognized and highly conserved role for DNA synthesis in discriminating between recombination pathways.
+23144629	27	31	RFC1	Gene	832261
+23144629	681	685	RFC1	Gene	832261
+23144629	823	827	RFC1	Gene	832261
+23144629	975	979	RFC1	Gene	832261
+23144629	992	996	MSH4	Gene	827450
+23144629	1061	1065	rfc1	Gene	832261
+23144629	1103	1108	MUS81	Gene	829211
+23144629	1203	1208	MUS81	Gene	829211
+23144629	1417	1421	RFC1	Gene	832261
+
+23144728|t|Enantioselective induction of a glutathione-S-transferase, a glutathione transporter and an ABC transporter in maize by Metolachlor and its (S)-isomer.
+23144728|a|The metabolism of chiral herbicides in plants remains poorly understood. Glutathione conjugation reactions are one of the principal mechanisms that plants utilize to detoxify xenobiotics. The induction by rac- and S-metolachlor of the expression of three genes, ZmGST27, ZmGT1 and ZmMRP1, encoding respectively a glutathione-S-transferase, a glutathione transporter and an ATP-binding cassette (ABC) transporter was studied in maize. The results demonstrate that the inducing effect of rac- and S-metolachlor on the expression of ZmGST27 and ZmGT1 is comparable. However, the inducing effect of rac-metolachlor on ZmMRP1 expression is more pronounced than that of S-metolachlor. Furthermore, vanadate, an ABC transporter inhibitor, could greatly reduce the difference in herbicidal activity between rac- and S-metolachlor. These results suggest that the ABC transporters may preferentially transport conjugates of rac-metolachlor, leading to a faster metabolism of the latter. Through comparing the expression of ZmGST27, ZmMRP1 and ZmGT1 after treatment by rac- and S-metolachlor, we provide novel insights into the metabolic processes of chiral herbicides in plants.
+23144728	414	421	ZmGST27	Gene	542311
+23144728	423	428	ZmGT1	Gene	542140
+23144728	433	439	ZmMRP1	Gene	100037760
+23144728	682	689	ZmGST27	Gene	542311
+23144728	694	699	ZmGT1	Gene	542140
+23144728	766	772	ZmMRP1	Gene	100037760
+23144728	1165	1172	ZmGST27	Gene	542311
+23144728	1174	1180	ZmMRP1	Gene	100037760
+23144728	1185	1190	ZmGT1	Gene	542140
+
+23144921|t|Water stress and aphid feeding differentially influence metabolite composition in Arabidopsis thaliana (L.).
+23144921|a|Little is known about how drought stress influences plant secondary metabolite accumulation and how this affects plant defense against different aphids. We therefore cultivated Arabidopsis thaliana (L.) plants under well-watered, drought, and water-logged conditions. Two aphid species were selected for this study: the generalist Myzus persicae (Sulzer) and the crucifer specialist Brevicoryne brassicae (L.). Metabolite concentrations in the phloem sap, which influence aphid growth, changed particularly under drought stress. Levels of sucrose and several amino acids, such as glutamic acid, proline, isoleucine, and lysine increased, while concentrations of 4-methoxyindol-3-ylmethyl glucosinolate decreased. M. persicae population growth was highest on plants under drought stress conditions. However, B. brassicae did not profit from improved phloem sap quality under drought stress and performed equally in all water treatments. Water stress and aphids generally had an opposite effect on the accumulation of secondary metabolites in the plant rosettes. Drought stress and water-logging led to increased aliphatic glucosinolate and flavonoid levels. Conversely, aphid feeding, especially of M. persicae, reduced levels of flavonoids and glucosinolates in the plants. Correspondingly, transcript levels of aliphatic biosynthetic genes decreased after feeding of both aphid species. Contrary to M. persicae, drought stress did not promote population growth of B. brassicae on these plants. The specialist aphid induced expression of CYP79B2, CYP79B3, and PAD3 with corresponding accumulation of indolyl glucosinolates and camalexin. This was distinct from M. persicae, which did not elicit similarly strong camalexin accumulation, which led to the hypothesis of a specific defense adaptations against the specialist aphid.
+
+23145086|t|Characterization of Arabidopsis FPS isozymes and FPS gene expression analysis provide insight into the biosynthesis of isoprenoid precursors in seeds.
+23145086|a|Arabidopsis thaliana contains two genes encoding farnesyl diphosphate (FPP) synthase (FPS), the prenyl diphoshate synthase that catalyzes the synthesis of FPP from isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). In this study, we provide evidence that the two Arabidopsis short FPS isozymes FPS1S and FPS2 localize to the cytosol. Both enzymes were expressed in E. coli, purified and biochemically characterized. Despite FPS1S and FPS2 share more than 90% amino acid sequence identity, FPS2 was found to be more efficient as a catalyst, more sensitive to the inhibitory effect of NaCl, and more resistant to thermal inactivation than FPS1S. Homology modelling for FPS1S and FPS2 and analysis of the amino acid differences between the two enzymes revealed an increase in surface polarity and a greater capacity to form surface salt bridges of FPS2 compared to FPS1S. These factors most likely account for the enhanced thermostability of FPS2. Expression analysis of FPS::GUS genes in seeds showed that FPS1 and FPS2 display complementary patterns of expression particularly at late stages of seed development, which suggests that Arabidopsis seeds have two spatially segregated sources of FPP. Functional complementation studies of the Arabidopsis fps2 knockout mutant seed phenotypes demonstrated that under normal conditions FPS1S and FPS2 are functionally interchangeable. A putative role for FPS2 in maintaining seed germination capacity under adverse environmental conditions is discussed.
+23145086	473	477	FPS2	Gene	827430
+23145086	603	607	FPS2	Gene	827430
+23145086	658	662	FPS2	Gene	827430
+23145086	846	850	FPS2	Gene	827430
+23145086	1014	1018	FPS2	Gene	827430
+23145086	1108	1112	FPS2	Gene	827430
+23145086	1173	1177	FPS1	Gene	834828
+23145086	1182	1186	FPS2	Gene	827430
+23145086	1419	1423	fps2	Gene	827430
+23145086	1508	1512	FPS2	Gene	827430
+23145086	1567	1571	FPS2	Gene	827430
+
+23145136|t|Natural variation in seed very long chain fatty acid content is controlled by a new isoform of KCS18 in Arabidopsis thaliana.
+23145136|a|Oil from oleaginous seeds is mainly composed of triacylglycerols. Very long chain fatty acids (VLCFAs) are major constituents of triacylglycerols in many seed oils and represent valuable feedstock for industrial purposes. To identify genetic factors governing natural variability in VLCFA biosynthesis, a quantitative trait loci (QTL) analysis using a recombinant inbred line population derived from a cross between accessions Bay-0 and Shahdara was performed in Arabidopsis thaliana. Two fatty acid chain length ratio (CLR) QTL were identified, with one major locus, CLR.2, accounting for 77% of the observed phenotypic variation. A fine mapping and candidate gene approach showed that a key enzyme of the fatty acid elongation pathway, the beta-ketoacyl-CoA synthase 18 (KCS18), was responsible for the CLR.2 QTL detected between Bay-0 and Shahdara. Association genetics and heterologous expression in yeast cells identified a single point mutation associated with an alteration of KCS18 activity, uncovering the molecular bases for the modulation of VLCFA content in these two natural populations of Arabidopsis. Identification of this kcs18 mutant with altered activity opens new perspectives for the modulation of oil composition in crop plants.
+23145136	95	100	KCS18	Gene	829603
+23145136	899	904	KCS18	Gene	829603
+23145136	1110	1115	KCS18	Gene	829603
+23145136	1265	1270	kcs18	Gene	829603
+
+23155454|t|ERMO3/MVP1/GOLD36 is involved in a cell type-specific mechanism for maintaining ER morphology in Arabidopsis thaliana.
+23155454|a|The endoplasmic reticulum (ER) has a unique, network-like morphology. The ER structures are composed of tubules, cisternae, and three-way junctions. This morphology is highly conserved among eukaryotes, but the molecular mechanism that maintains ER morphology has not yet been elucidated. In addition, certain Brassicaceae plants develop a unique ER-derived organelle called the ER body. This organelle accumulates large amounts of PYK10, a beta-glucosidase, but its physiological functions are still obscure. We aimed to identify a novel factor required for maintaining the morphology of the ER, including ER bodies, and employed a forward-genetic approach using transgenic Arabidopsis thaliana (GFP-h) with fluorescently-labeled ER. We isolated and investigated a mutant (designated endoplasmic reticulum morphology3, ermo3) with huge aggregates and abnormal punctate structures of ER. ERMO3 encodes a GDSL-lipase/esterase family protein, also known as MVP1. Here, we showed that, although ERMO3/MVP1/GOLD36 was expressed ubiquitously, the morphological defects of ermo3 were specifically seen in a certain type of cells where ER bodies developed. Coimmunoprecipitation analysis combined with mass spectrometry revealed that ERMO3/MVP1/GOLD36 interacts with the PYK10 complex, a huge protein complex that is thought to be important for ER body-related defense systems. We also found that the depletion of transcription factor NAI1, a master regulator for ER body formation, suppressed the formation of ER-aggregates in ermo3 cells, suggesting that NAI1 expression plays an important role in the abnormal aggregation of ER. Our results suggest that ERMO3/MVP1/GOLD36 is required for preventing ER and other organelles from abnormal aggregation and for maintaining proper ER morphology in a coordinated manner with NAI1.
+23155454	0	5	ERMO3	Gene	841841
+23155454	11	17	GOLD36	Gene	841841
+23155454	551	556	PYK10	Gene	820082
+23155454	939	944	ermo3	Gene	841841
+23155454	1007	1012	ERMO3	Gene	841841
+23155454	1111	1116	ERMO3	Gene	841841
+23155454	1122	1128	GOLD36	Gene	841841
+23155454	1186	1191	ermo3	Gene	841841
+23155454	1346	1351	ERMO3	Gene	841841
+23155454	1357	1363	GOLD36	Gene	841841
+23155454	1383	1388	PYK10	Gene	820082
+23155454	1547	1551	NAI1	Gene	816807
+23155454	1640	1645	ermo3	Gene	841841
+23155454	1669	1673	NAI1	Gene	816807
+23155454	1769	1774	ERMO3	Gene	841841
+23155454	1780	1786	GOLD36	Gene	841841
+23155454	1934	1938	NAI1	Gene	816807
+
+23468662|t|CELF family RNA-binding protein UNC-75 regulates two sets of mutually exclusive exons of the unc-32 gene in neuron-specific manners in Caenorhabditis elegans.
+23468662|a|An enormous number of alternative pre-mRNA splicing patterns in multicellular organisms are coordinately defined by a limited number of regulatory proteins and cis elements. Mutually exclusive alternative splicing should be strictly regulated and is a challenging model for elucidating regulation mechanisms. Here we provide models of the regulation of two sets of mutually exclusive exons, 4a-4c and 7a-7b, of the Caenorhabditis elegans uncoordinated (unc)-32 gene, encoding the a subunit of V0 complex of vacuolar-type H(+)-ATPases. We visualize selection patterns of exon 4 and exon 7 in vivo by utilizing a trio and a pair of symmetric fluorescence splicing reporter minigenes, respectively, to demonstrate that they are regulated in tissue-specific manners. Genetic analyses reveal that RBFOX family RNA-binding proteins ASD-1 and FOX-1 and a UGCAUG stretch in intron 7b are involved in the neuron-specific selection of exon 7a. Through further forward genetic screening, we identify UNC-75, a neuron-specific CELF family RNA-binding protein of unknown function, as an essential regulator for the exon 7a selection. Electrophoretic mobility shift assays specify a short fragment in intron 7a as the recognition site for UNC-75 and demonstrate that UNC-75 specifically binds via its three RNA recognition motifs to the element including a UUGUUGUGUUGU stretch. The UUGUUGUGUUGU stretch in the reporter minigenes is actually required for the selection of exon 7a in the nervous system. We compare the amounts of partially spliced RNAs in the wild-type and unc-75 mutant backgrounds and raise a model for the mutually exclusive selection of unc-32 exon 7 by the RBFOX family and UNC-75. The neuron-specific selection of unc-32 exon 4b is also regulated by UNC-75 and the unc-75 mutation suppresses the Unc phenotype of the exon-4b-specific allele of unc-32 mutants. Taken together, UNC-75 is the neuron-specific splicing factor and regulates both sets of the mutually exclusive exons of the unc-32 gene.
+23468662	32	38	UNC-75	Gene	182722
+23468662	93	99	unc-32	Gene	176257
+23468662	985	990	ASD-1	Gene	175542
+23468662	995	1000	FOX-1	Gene	180549
+23468662	1148	1154	UNC-75	Gene	182722
+23468662	1384	1390	UNC-75	Gene	182722
+23468662	1412	1418	UNC-75	Gene	182722
+23468662	1718	1724	unc-75	Gene	182722
+23468662	1802	1808	unc-32	Gene	176257
+23468662	1840	1846	UNC-75	Gene	182722
+23468662	1881	1887	unc-32	Gene	176257
+23468662	1917	1923	UNC-75	Gene	182722
+23468662	1932	1938	unc-75	Gene	182722
+23468662	2011	2017	unc-32	Gene	176257
+23468662	2043	2049	UNC-75	Gene	182722
+23468662	2152	2158	unc-32	Gene	176257
+
+23483992|t|Identification and functional characterization of the Caenorhabditis elegans riboflavin transporters rft-1 and rft-2.
+23483992|a|Two potential orthologs of the human riboflavin transporter 3 (hRFVT3) were identified in the C. elegans genome, Y47D7A.16 and Y47D7A.14, which share 33.7 and 30.5% identity, respectively, with hRFVT3. The genes are tandemly arranged, and we assign them the names rft-1 (for Y47D7A.16) and rft-2 (for Y47D7A.14). Functional characterization of the coding sequences in a heterologous expression system demonstrated that both were specific riboflavin transporters, although the rft-1 encoded protein had greater transport activity. A more detailed examination of rft-1 showed its transport of riboflavin to have an acidic pH dependence, saturability (apparent Km = 1.4 +- 0.5 microM), inhibition by riboflavin analogues, and Na(+) independence. The expression of rft-1 mRNA was relatively higher in young larvae than in adults, and mRNA expression dropped in response to RF supplementation. Knocking down the two transporters individually via RNA interference resulted in a severe loss of fertility that was compounded in a double knockdown. Transcriptional fusions constructed with two fluorophores (rft-1::GFP, and rft-2::mCherry) indicated that rft-1 is expressed in the intestine and a small subset of neuronal support cells along the entire length of the animal. Expression of rft-2 is localized mainly to the intestine and pharynx. We also observed a drop in the expression of the two reporters in animals that were maintained in high riboflavin levels. These results report for the first time the identification of two riboflavin transporters in C. elegans and demonstrate their expression and importance to metabolic function in worms. Absence of transporter function renders worms sterile, making them useful in understanding human disease associated with mutations in hRFVT3.
+23483992	101	106	rft-1	Gene	3896860
+23483992	111	116	rft-2	Gene	178842
+23483992	155	179	riboflavin transporter 3	Gene	79581
+23483992	382	387	rft-1	Gene	3896860
+23483992	408	413	rft-2	Gene	178842
+23483992	594	599	rft-1	Gene	3896860
+23483992	679	684	rft-1	Gene	3896860
+23483992	879	884	rft-1	Gene	3896860
+23483992	1217	1222	rft-1	Gene	3896860
+23483992	1233	1238	rft-2	Gene	178842
+23483992	1264	1269	rft-1	Gene	3896860
+23483992	1398	1403	rft-2	Gene	178842
+
+23577128|t|The C. elegans male exercises directional control during mating through cholinergic regulation of sex-shared command interneurons.
+23577128|a|BACKGROUND: Mating behaviors in simple invertebrate model organisms represent tractable paradigms for understanding the neural bases of sex-specific behaviors, decision-making and sensorimotor integration. However, there are few examples where such neural circuits have been defined at high resolution or interrogated. METHODOLOGY/PRINCIPAL FINDINGS: Here we exploit the simplicity of the nematode Caenorhabditis elegans to define the neural circuits underlying the male's decision to initiate mating in response to contact with a mate. Mate contact is sensed by male-specific sensilla of the tail, the rays, which subsequently induce and guide a contact-based search of the hermaphrodite's surface for the vulva (the vulva search). Atypically, search locomotion has a backward directional bias so its implementation requires overcoming an intrinsic bias for forward movement, set by activity of the sex-shared locomotory system. Using optogenetics, cell-specific ablation- and mutant behavioral analyses, we show that the male makes this shift by manipulating the activity of command cells within this sex-shared locomotory system. The rays control the command interneurons through the male-specific, decision-making interneuron PVY and its auxiliary cell PVX. Unlike many sex-shared pathways, PVY/PVX regulate the command cells via cholinergic, rather than glutamatergic transmission, a feature that likely contributes to response specificity and coordinates directional movement with other cholinergic-dependent motor behaviors of the mating sequence. PVY/PVX preferentially activate the backward, and not forward, command cells because of a bias in synaptic inputs and the distribution of key cholinergic receptors (encoded by the genes acr-18, acr-16 and unc-29) in favor of the backward command cells. CONCLUSION/SIGNIFICANCE: Our interrogation of male neural circuits reveals that a sex-specific response to the opposite sex is conferred by a male-specific pathway that renders subordinate, sex-shared motor programs responsive to mate cues. Circuit modifications of these types may make prominent contributions to natural variations in behavior that ultimately bring about speciation.
+23577128	1891	1897	unc-29	Gene	172703
+
+23593298|t|The glutathione reductase GSR-1 determines stress tolerance and longevity in Caenorhabditis elegans.
+23593298|a|Glutathione (GSH) and GSH-dependent enzymes play a key role in cellular detoxification processes that enable organism to cope with various internal and environmental stressors. However, it is often not clear, which components of the complex GSH-metabolism are required for tolerance towards a certain stressor. To address this question, a small scale RNAi-screen was carried out in Caenorhabditis elegans where GSH-related genes were systematically knocked down and worms were subsequently analysed for their survival rate under sub-lethal concentrations of arsenite and the redox cycler juglone. While the knockdown of gamma-glutamylcysteine synthetase led to a diminished survival rate under arsenite stress conditions, GSR-1 (glutathione reductase) was shown to be essential for survival under juglone stress conditions. gsr-1 is the sole GSR encoding gene found in C. elegans. Knockdown of GSR-1 hardly affected total glutathione levels nor reduced glutathione/glutathione disulphide (GSH/GSSG) ratio under normal laboratory conditions. Nevertheless, when GSSG recycling was impaired by gsr-1(RNAi), GSH synthesis was induced, but not vice versa. Moreover, the impact of GSSG recycling was potentiated under oxidative stress conditions, explaining the enormous effect gsr-1(RNAi) knockdown had on juglone tolerance. Accordingly, overexpression of GSR-1 was capable of increasing stress tolerance. Furthermore, expression levels of SKN-1-regulated GSR-1 also affected life span of C. elegans, emphasising the crucial role the GSH redox state plays in both processes.
+23593298	26	31	GSR-1	Gene	175467
+23593298	823	828	GSR-1	Gene	175467
+23593298	925	930	gsr-1	Gene	175467
+23593298	995	1000	GSR-1	Gene	175467
+23593298	1192	1197	gsr-1	Gene	175467
+23593298	1373	1378	gsr-1	Gene	175467
+23593298	1452	1457	GSR-1	Gene	175467
+23593298	1536	1541	SKN-1	Gene	177343
+23593298	1552	1557	GSR-1	Gene	175467
+
