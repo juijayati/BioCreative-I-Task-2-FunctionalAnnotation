@@ -1,1 +1,1 @@
-# BioCreative-I-Task-2-FunctionalAnnotation
+# Gene Ontology (GO) Annotation of Text
